@@ -15,6 +15,7 @@ MikroTik runs locally at `04:10`.
 
 | File | Purpose |
 | --- | --- |
+| `bootstrap-mohavise-adblock.rsc` | Fetches, imports, and removes the installer file |
 | `adblock-domains.txt` | Generated plain domain list |
 | `adblock-hosts.txt` | Generated hosts-format file used by RouterOS DNS Adlist |
 | `adblock-domains.rsc` | Generated DNS static import fallback |
@@ -36,3 +37,13 @@ This makes future updates safer because scripts can find only the items managed 
 
 The installer adds the RouterOS DNS Adlist URL only if it is missing, then runs `/ip dns adlist reload`.
 It does not delete DNS static records or adlist entries.
+
+## Install
+
+Run this once on MikroTik:
+
+```routeros
+/tool fetch url="https://raw.githubusercontent.com/mohavise/mohavise-mikrotik-adblock/main/bootstrap-mohavise-adblock.rsc" dst-path=bootstrap-mohavise-adblock.rsc mode=https
+/import file-name=bootstrap-mohavise-adblock.rsc
+/file remove [find name=bootstrap-mohavise-adblock.rsc]
+```
