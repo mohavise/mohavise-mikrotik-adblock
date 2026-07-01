@@ -4,7 +4,7 @@
 
 :local scriptName "mohavise-adblock-update"
 :local scheduleName "mohavise-adblock-daily"
-:local remoteUrl "https://raw.githubusercontent.com/YOUR-USER/YOUR-REPO/main/adblock-prototype/adblock-domains.rsc"
+:local remoteUrl "https://raw.githubusercontent.com/mohavise/mohavise-mikrotik-adblock/main/adblock-domains.rsc"
 :local localFile "mohavise-adblock-domains.rsc"
 
 /system script remove [/system script find name=$scriptName]
@@ -22,4 +22,3 @@
 /system scheduler add name=$scheduleName start-time=04:10:00 interval=1d on-event="/system script run $scriptName" comment="managed-by=mohavise-mikrotik-adblock project=mohavise-adlist-block"
 
 /system script run $scriptName
-
