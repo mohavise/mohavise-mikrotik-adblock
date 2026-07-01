@@ -3,6 +3,7 @@ param(
     [string]$AllowlistFile = "..\config\allowlist-core.txt",
     [string]$CustomBlocklistFile = "..\config\blocklist-custom.txt",
     [string]$DomainOutputFile = "..\adblock-domains.txt",
+    [string]$HostOutputFile = "..\adblock-hosts.txt",
     [string]$OutputFile = "..\adblock-domains.rsc",
     [string]$ListName = "mohavise-adblock"
 )
@@ -95,6 +96,7 @@ $final = $blocks |
     Sort-Object
 
 Set-Content -LiteralPath $DomainOutputFile -Value $final -Encoding ASCII
+Set-Content -LiteralPath $HostOutputFile -Value ($final | ForEach-Object { "0.0.0.0 $_" }) -Encoding ASCII
 
 $updated = (Get-Date).ToUniversalTime().ToString("yyyy-MM-dd HH:mm:ss 'UTC'")
 $lines = [System.Collections.Generic.List[string]]::new()
@@ -109,5 +111,4 @@ foreach ($domain in $final) {
 }
 
 Set-Content -LiteralPath $OutputFile -Value $lines -Encoding ASCII
-Write-Host "Generated $DomainOutputFile and $OutputFile with $($final.Count) blocked domains."
-
+Write-Host "Generated $DomainOutputFile, $HostOutputFile, and $OutputFile with $($final.Count) blocked domains."

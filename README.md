@@ -16,8 +16,9 @@ MikroTik runs locally at `04:10`.
 | File | Purpose |
 | --- | --- |
 | `adblock-domains.txt` | Generated plain domain list |
-| `adblock-domains.rsc` | Generated final MikroTik block file |
-| `install-mohavise-adblock.rsc` | Creates MikroTik script and daily scheduler |
+| `adblock-hosts.txt` | Generated hosts-format file used by RouterOS DNS Adlist |
+| `adblock-domains.rsc` | Generated DNS static import fallback |
+| `install-mohavise-adblock.rsc` | Creates MikroTik adlist updater script and daily scheduler |
 | `config/sources.txt` | Upstream blocklist URLs |
 | `config/allowlist-core.txt` | Domains that must not be blocked |
 | `config/blocklist-custom.txt` | Your own blocked domains |
@@ -32,3 +33,6 @@ managed-by=mohavise-mikrotik-adblock
 ```
 
 This makes future updates safer because scripts can find only the items managed by this project.
+
+The installer adds the RouterOS DNS Adlist URL only if it is missing, then runs `/ip dns adlist reload`.
+It does not delete DNS static records or adlist entries.
