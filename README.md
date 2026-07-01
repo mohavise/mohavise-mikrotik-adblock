@@ -1,9 +1,9 @@
 # Mohavise MikroTik Adblock Prototype
 
-This prototype builds a MikroTik DNS static block file every day from upstream adblock domain lists.
+This project builds a MikroTik DNS Adlist file every day from upstream adblock domain lists.
 
 The first source is HaGeZi `light.txt`, which is a conservative starting point for MikroTik routers.
-After testing, you can change `sources.txt` to HaGeZi `multi.txt` or `pro.txt` for stronger blocking.
+After testing, you can change `config/sources.txt` to HaGeZi `multi.txt` or `pro.txt` for stronger blocking.
 
 ## Daily Timing
 
@@ -15,7 +15,7 @@ MikroTik runs locally at `04:10`.
 
 | File | Purpose |
 | --- | --- |
-| `bootstrap-mohavise-adblock.rsc` | Fetches, imports, and removes the installer file |
+| `safe-install-mohavise-adblock.rsc` | Fetches, imports, and removes the installer file |
 | `adblock-domains.txt` | Generated plain domain list |
 | `adblock-hosts.txt` | Generated hosts-format file used by RouterOS DNS Adlist |
 | `adblock-domains.rsc` | Generated DNS static import fallback |
@@ -43,7 +43,7 @@ It does not delete DNS static records or adlist entries.
 Run this once on MikroTik:
 
 ```routeros
-/tool fetch url="https://raw.githubusercontent.com/mohavise/mohavise-mikrotik-adblock/main/bootstrap-mohavise-adblock.rsc" dst-path=bootstrap-mohavise-adblock.rsc mode=https
-/import file-name=bootstrap-mohavise-adblock.rsc
-/file remove [find name=bootstrap-mohavise-adblock.rsc]
+/tool fetch url="https://raw.githubusercontent.com/mohavise/mohavise-mikrotik-adblock/main/safe-install-mohavise-adblock.rsc" dst-path=safe-install-mohavise-adblock.rsc mode=https
+/import file-name=safe-install-mohavise-adblock.rsc
+/file remove [find name=safe-install-mohavise-adblock.rsc]
 ```
