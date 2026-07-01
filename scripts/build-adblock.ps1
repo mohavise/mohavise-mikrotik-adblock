@@ -1,9 +1,9 @@
 param(
-    [string]$SourcesFile = "sources.txt",
-    [string]$AllowlistFile = "allowlist-core.txt",
-    [string]$CustomBlocklistFile = "blocklist-custom.txt",
-    [string]$DomainOutputFile = "adblock-domains.txt",
-    [string]$OutputFile = "adblock-domains.rsc",
+    [string]$SourcesFile = "..\config\sources.txt",
+    [string]$AllowlistFile = "..\config\allowlist-core.txt",
+    [string]$CustomBlocklistFile = "..\config\blocklist-custom.txt",
+    [string]$DomainOutputFile = "..\adblock-domains.txt",
+    [string]$OutputFile = "..\adblock-domains.rsc",
     [string]$ListName = "mohavise-adblock"
 )
 
@@ -64,8 +64,8 @@ function Test-Allowlisted {
     return $false
 }
 
-$root = Split-Path -Parent $MyInvocation.MyCommand.Path
-Set-Location $root
+$scriptRoot = Split-Path -Parent $MyInvocation.MyCommand.Path
+Set-Location $scriptRoot
 
 $sources = Read-SourceFile $SourcesFile
 $allow = [System.Collections.Generic.HashSet[string]]::new([StringComparer]::OrdinalIgnoreCase)
@@ -110,3 +110,4 @@ foreach ($domain in $final) {
 
 Set-Content -LiteralPath $OutputFile -Value $lines -Encoding ASCII
 Write-Host "Generated $DomainOutputFile and $OutputFile with $($final.Count) blocked domains."
+

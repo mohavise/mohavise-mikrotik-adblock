@@ -19,7 +19,7 @@ jobs:
 
       - name: Build adblock file
         shell: pwsh
-        run: ./build-adblock.ps1
+        run: ./scripts/build-adblock.ps1
 
       - name: Commit updated adblock file
         shell: pwsh
@@ -34,4 +34,3 @@ jobs:
           }
           git commit -m "Update MikroTik adblock list"
           git push
-

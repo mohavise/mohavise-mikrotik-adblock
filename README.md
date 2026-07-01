@@ -15,13 +15,13 @@ MikroTik runs locally at `04:10`.
 
 | File | Purpose |
 | --- | --- |
-| `sources.txt` | Upstream blocklist URLs |
-| `allowlist-core.txt` | Domains that must not be blocked |
-| `blocklist-custom.txt` | Your own blocked domains |
-| `build-adblock.ps1` | Builds the final MikroTik `.rsc` file |
 | `adblock-domains.txt` | Generated plain domain list |
 | `adblock-domains.rsc` | Generated final MikroTik block file |
 | `install-mohavise-adblock.rsc` | Creates MikroTik script and daily scheduler |
+| `config/sources.txt` | Upstream blocklist URLs |
+| `config/allowlist-core.txt` | Domains that must not be blocked |
+| `config/blocklist-custom.txt` | Your own blocked domains |
+| `scripts/build-adblock.ps1` | Builds the final MikroTik files |
 
 ## Marker
 
