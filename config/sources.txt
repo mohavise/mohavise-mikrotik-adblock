@@ -1,7 +1,0 @@
-# managed-by=mohavise-mikrotik-adblock
-# purpose=upstream-block-sources
-
-# HaGeZi Light - conservative first source for MikroTik-sized devices.
-# You can later switch this to multi.txt or pro.txt if the router handles it well.
-https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/light.txt
-

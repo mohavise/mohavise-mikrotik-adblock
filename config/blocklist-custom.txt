@@ -1,5 +1,0 @@
-# managed-by=mohavise-mikrotik-adblock
-# purpose=custom-blocklist
-#
-# Add your own domains here, one per line.
-

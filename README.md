@@ -1,9 +1,12 @@
 # Mohavise MikroTik Adblock Prototype
 
-This project builds a MikroTik DNS Adlist file every day from upstream adblock domain lists.
+This project builds MikroTik DNS Adlist outputs from the shared Mohavise adblock core list.
 
-The first source is HaGeZi `light.txt`, which is a conservative starting point for MikroTik routers.
-After testing, you can change `config/sources.txt` to HaGeZi `multi.txt` or `pro.txt` for stronger blocking.
+Source and allowlist changes are managed in the core repo:
+
+```text
+https://github.com/mohavise/mohavise-adblock-core
+```
 
 ## Daily Timing
 
@@ -20,10 +23,7 @@ MikroTik runs locally at `04:10`.
 | `adblock-hosts.txt` | Generated hosts-format file used by RouterOS DNS Adlist |
 | `adblock-domains.rsc` | Generated DNS static import fallback |
 | `install-mohavise-adblock.rsc` | Creates MikroTik adlist updater script and daily scheduler |
-| `config/sources.txt` | Upstream blocklist URLs |
-| `config/allowlist-core.txt` | Domains that must not be blocked |
-| `config/blocklist-custom.txt` | Your own blocked domains |
-| `scripts/build-adblock.ps1` | Builds the final MikroTik files |
+| `scripts/build-adblock.ps1` | Downloads the core list and builds the final MikroTik files |
 
 ## Marker
 

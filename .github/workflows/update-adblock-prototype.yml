@@ -3,8 +3,8 @@ name: Update MikroTik Adblock
 on:
   workflow_dispatch:
   schedule:
-    # 03:00 Asia/Tehran = 23:30 UTC on the previous day.
-    - cron: "30 23 * * *"
+    # 03:30 Asia/Tehran = 00:00 UTC. Runs after the core repo updates.
+    - cron: "0 0 * * *"
 
 permissions:
   contents: write
