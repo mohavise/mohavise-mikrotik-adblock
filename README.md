@@ -23,7 +23,13 @@ MikroTik runs locally at `04:10`.
 | `adblock-hosts.txt` | Generated hosts-format file used by RouterOS DNS Adlist |
 | `adblock-domains.rsc` | Generated DNS static import fallback |
 | `install-mohavise-adblock.rsc` | Creates MikroTik adlist updater script and daily scheduler |
-| `scripts/build-adblock.ps1` | Downloads the core list and builds the final MikroTik files |
+| `scripts/build-adblock.sh` | Downloads the core list and builds the final MikroTik files |
+
+## Build
+
+```bash
+./scripts/build-adblock.sh
+```
 
 ## Marker
 
