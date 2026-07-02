@@ -9,6 +9,7 @@ DOMAIN_OUTPUT_FILE="${DOMAIN_OUTPUT_FILE:-$REPO_DIR/adblock-domains.txt}"
 HOST_OUTPUT_FILE="${HOST_OUTPUT_FILE:-$REPO_DIR/adblock-hosts.txt}"
 RSC_OUTPUT_FILE="${RSC_OUTPUT_FILE:-$REPO_DIR/adblock-domains.rsc}"
 LIST_NAME="${LIST_NAME:-mohavise-adblock}"
+MIN_DOMAIN_COUNT="${MIN_DOMAIN_COUNT:-10000}"
 
 TMP_FILE="$(mktemp)"
 trap 'rm -f "$TMP_FILE"' EXIT
@@ -27,6 +28,12 @@ fi |
     ' |
     sort -u > "$TMP_FILE"
 
+domain_count="$(wc -l < "$TMP_FILE" | tr -d ' ')"
+if (( domain_count < MIN_DOMAIN_COUNT )); then
+    echo "Core domain count $domain_count is below minimum $MIN_DOMAIN_COUNT; refusing to overwrite outputs." >&2
+    exit 1
+fi
+
 cp "$TMP_FILE" "$DOMAIN_OUTPUT_FILE"
 awk '{ print "0.0.0.0 " $0 }' "$TMP_FILE" > "$HOST_OUTPUT_FILE"
 
@@ -41,6 +48,4 @@ awk '{ print "0.0.0.0 " $0 }' "$TMP_FILE" > "$HOST_OUTPUT_FILE"
     }' "$TMP_FILE"
 } > "$RSC_OUTPUT_FILE"
 
-domain_count="$(wc -l < "$TMP_FILE" | tr -d ' ')"
 echo "Generated $DOMAIN_OUTPUT_FILE, $HOST_OUTPUT_FILE, and $RSC_OUTPUT_FILE with $domain_count blocked domains."
-
