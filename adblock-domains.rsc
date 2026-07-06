@@ -1,7 +1,7 @@
 # managed-by=mohavise-mikrotik-adblock
 # project=mohavise-adlist-block
 # do-not-edit-manually
-# generated-at=2026-07-05 09:47:00 UTC
+# generated-at=2026-07-06 14:06:49 UTC
 /ip dns static remove [/ip dns static find comment~"managed-by=mohavise-mikrotik-adblock"]
 :do { /ip dns static add name=0-0-0checkmate.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=0.0-02.net address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
