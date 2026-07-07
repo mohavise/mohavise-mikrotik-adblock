@@ -5,26 +5,35 @@
 :do {
     :local scriptName "mohavise-adblock-update"
     :local scheduleName "mohavise-adblock-daily"
-    :local adlistUrl "https://raw.githubusercontent.com/mohavise/mohavise-mikrotik-adblock/main/adblock-hosts.txt"
+    :local adblockUrl "https://raw.githubusercontent.com/mohavise/mohavise-mikrotik-adblock/main/mikrotik-adblock-hosts.txt"
+    :local adultUrl "https://raw.githubusercontent.com/mohavise/mohavise-mikrotik-adblock/main/mikrotik-adult-hosts.txt"
     :local marker "managed-by=mohavise-mikrotik-adblock project=mohavise-adlist-block"
 
     :local updateSource "
 # managed-by=mohavise-mikrotik-adblock
 # project=mohavise-adlist-block
 # do-not-edit-manually
-:local adlistUrl \"$adlistUrl\"
+:local adblockUrl \"$adblockUrl\"
+:local adultUrl \"$adultUrl\"
 
 :log info \"Mohavise adblock: starting DNS Adlist update\"
 
 :do {
-    :if ([:len [/ip dns adlist find url=\$adlistUrl]] = 0) do={
-        /ip dns adlist add url=\$adlistUrl ssl-verify=no
-        :log info \"Mohavise adblock: DNS Adlist URL added\"
+    :if ([:len [/ip dns adlist find url=\$adblockUrl]] = 0) do={
+        /ip dns adlist add url=\$adblockUrl ssl-verify=no
+        :log info \"Mohavise adblock: adblock DNS Adlist URL added\"
     } else={
-        :log info \"Mohavise adblock: DNS Adlist URL already exists; skipping add\"
+        :log info \"Mohavise adblock: adblock DNS Adlist URL already exists; skipping add\"
+    }
+
+    :if ([:len [/ip dns adlist find url=\$adultUrl]] = 0) do={
+        /ip dns adlist add url=\$adultUrl ssl-verify=no
+        :log info \"Mohavise adblock: adult DNS Adlist URL added\"
+    } else={
+        :log info \"Mohavise adblock: adult DNS Adlist URL already exists; skipping add\"
     }
 } on-error={
-    :log error \"Mohavise adblock: failed to add or verify DNS Adlist URL\"
+    :log error \"Mohavise adblock: failed to add or verify DNS Adlist URLs\"
     :return
 }
 
