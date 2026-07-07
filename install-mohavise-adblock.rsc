@@ -15,6 +15,7 @@
 # do-not-edit-manually
 :local adblockUrl \"$adblockUrl\"
 :local adultUrl \"$adultUrl\"
+:local adultEnabled false
 
 :log info \"Mohavise adblock: starting DNS Adlist update\"
 
@@ -26,11 +27,15 @@
         :log info \"Mohavise adblock: adblock DNS Adlist URL already exists; skipping add\"
     }
 
-    :if ([:len [/ip dns adlist find url=\$adultUrl]] = 0) do={
-        /ip dns adlist add url=\$adultUrl ssl-verify=no
-        :log info \"Mohavise adblock: adult DNS Adlist URL added\"
+    :if (\$adultEnabled = true) do={
+        :if ([:len [/ip dns adlist find url=\$adultUrl]] = 0) do={
+            /ip dns adlist add url=\$adultUrl ssl-verify=no
+            :log info \"Mohavise adblock: adult DNS Adlist URL added\"
+        } else={
+            :log info \"Mohavise adblock: adult DNS Adlist URL already exists; skipping add\"
+        }
     } else={
-        :log info \"Mohavise adblock: adult DNS Adlist URL already exists; skipping add\"
+        :log info \"Mohavise adblock: adult DNS Adlist is disabled; skipping add\"
     }
 } on-error={
     :log error \"Mohavise adblock: failed to add or verify DNS Adlist URLs\"
