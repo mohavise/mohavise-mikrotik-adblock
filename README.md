@@ -1,16 +1,27 @@
 # Mohavise MikroTik Adblock Prototype
 
-This project builds MikroTik DNS Adlist outputs from the shared Mohavise adblock core list.
+This repository is the MikroTik child/output repo of the main Mohavise adblock core project.
 
-Source and allowlist changes are managed in the core repo:
+It builds RouterOS-ready DNS Adlist outputs from the shared core domain list.
+Source lists, upstream changes, and allowlist changes are managed in the parent core repo:
 
 ```text
 https://github.com/mohavise/mohavise-adblock-core
 ```
 
+## Relationship
+
+```text
+mohavise-adblock-core
+        ↓
+mohavise-mikrotik-adblock
+        ↓
+MikroTik RouterOS DNS Adlist
+```
+
 ## Daily Timing
 
-GitHub Actions runs at `23:30 UTC`, which is `03:00 Asia/Tehran`.
+GitHub Actions runs at `00:00 UTC`, which is `03:30 Asia/Tehran`.
 
 MikroTik runs locally at `04:10`.
 
