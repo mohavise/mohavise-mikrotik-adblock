@@ -25,6 +25,28 @@ GitHub Actions runs at `00:00 UTC`, which is `03:30 Asia/Tehran`.
 
 MikroTik runs locally at `04:10`.
 
+## Materials / Output Files
+
+This repo generates three domain-related files from the same core list. They contain the same blocking material, but each one is prepared for a different use case.
+
+| File | Format | Main Use |
+| --- | --- | --- |
+| `adblock-domains.txt` | Plain domain list | Clean base output for review, debugging, and future converters |
+| `adblock-hosts.txt` | Hosts format: `0.0.0.0 domain.com` | Main file used by MikroTik RouterOS DNS Adlist |
+| `adblock-domains.rsc` | RouterOS script format | Fallback import method using `/ip dns static` records |
+
+Simple explanation:
+
+```text
+adblock-domains.txt  = clean domain output
+adblock-hosts.txt    = main MikroTik DNS Adlist file
+adblock-domains.rsc  = RouterOS DNS static fallback script
+```
+
+For normal MikroTik RouterOS v7 DNS Adlist usage, use `adblock-hosts.txt`.
+
+The `.rsc` file is optional and should be used only when DNS Adlist is not suitable or a DNS static fallback is needed.
+
 ## Files
 
 | File | Purpose |
