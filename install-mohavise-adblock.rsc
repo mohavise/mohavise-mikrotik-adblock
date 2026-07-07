@@ -1,21 +1,20 @@
 # managed-by=mohavise-mikrotik-adblock
 # project=mohavise-adlist-block
+# component=adblock
 # do-not-edit-manually
 
 :do {
     :local scriptName "mohavise-adblock-update"
     :local scheduleName "mohavise-adblock-daily"
     :local adblockUrl "https://raw.githubusercontent.com/mohavise/mohavise-mikrotik-adblock/main/mikrotik-adblock-hosts.txt"
-    :local adultUrl "https://raw.githubusercontent.com/mohavise/mohavise-mikrotik-adblock/main/mikrotik-adult-hosts.txt"
-    :local marker "managed-by=mohavise-mikrotik-adblock project=mohavise-adlist-block"
+    :local marker "managed-by=mohavise-mikrotik-adblock project=mohavise-adlist-block component=adblock"
 
     :local updateSource "
 # managed-by=mohavise-mikrotik-adblock
 # project=mohavise-adlist-block
+# component=adblock
 # do-not-edit-manually
 :local adblockUrl \"$adblockUrl\"
-:local adultUrl \"$adultUrl\"
-:local adultEnabled false
 
 :log info \"Mohavise adblock: starting DNS Adlist update\"
 
@@ -26,66 +25,30 @@
     } else={
         :log info \"Mohavise adblock: adblock DNS Adlist URL already exists; skipping add\"
     }
-
-    :if (\$adultEnabled = true) do={
-        :if ([:len [/ip dns adlist find url=\$adultUrl]] = 0) do={
-            /ip dns adlist add url=\$adultUrl ssl-verify=no
-            :log info \"Mohavise adblock: adult DNS Adlist URL added\"
-        } else={
-            :log info \"Mohavise adblock: adult DNS Adlist URL already exists; skipping add\"
-        }
-    } else={
-        :log info \"Mohavise adblock: adult DNS Adlist is disabled; skipping add\"
-    }
 } on-error={
-    :log error \"Mohavise adblock: failed to add or verify DNS Adlist URLs\"
+    :log error \"Mohavise adblock: failed to add or verify adblock DNS Adlist URL\"
     :return
 }
 
-:do {
-    /ip dns adlist reload
-} on-error={
-    :log error \"Mohavise adblock: DNS Adlist reload failed\"
-    :return
-}
-
+/ip dns adlist reload
 :log info \"Mohavise adblock: DNS Adlist update completed\"
 "
 
     :log info "Mohavise adblock: starting installer"
 
-    :do {
-        :if ([:len [/system script find name=$scriptName]] = 0) do={
-            /system script add name=$scriptName policy=read,write,test source=$updateSource comment=$marker
-            :log info "Mohavise adblock: updater script created"
-        } else={
-            /system script set [/system script find name=$scriptName] source=$updateSource policy=read,write,test comment=$marker
-            :log info "Mohavise adblock: updater script updated"
-        }
-    } on-error={
-        :log error "Mohavise adblock: failed to create or update updater script"
-        :return
+    :if ([:len [/system script find name=$scriptName]] = 0) do={
+        /system script add name=$scriptName policy=read,write,test source=$updateSource comment=$marker
+    } else={
+        /system script set [/system script find name=$scriptName] source=$updateSource policy=read,write,test comment=$marker
     }
 
-    :do {
-        :if ([:len [/system scheduler find name=$scheduleName]] = 0) do={
-            /system scheduler add name=$scheduleName start-time=04:10:00 interval=1d on-event="/system script run mohavise-adblock-update" comment=$marker
-            :log info "Mohavise adblock: daily scheduler created"
-        } else={
-            /system scheduler set [/system scheduler find name=$scheduleName] start-time=04:10:00 interval=1d on-event="/system script run mohavise-adblock-update" comment=$marker
-            :log info "Mohavise adblock: daily scheduler updated"
-        }
-    } on-error={
-        :log error "Mohavise adblock: failed to create or update daily scheduler"
-        :return
+    :if ([:len [/system scheduler find name=$scheduleName]] = 0) do={
+        /system scheduler add name=$scheduleName start-time=04:10:00 interval=1d on-event="/system script run mohavise-adblock-update" comment=$marker
+    } else={
+        /system scheduler set [/system scheduler find name=$scheduleName] start-time=04:10:00 interval=1d on-event="/system script run mohavise-adblock-update" comment=$marker
     }
 
-    :do {
-        /system script run $scriptName
-    } on-error={
-        :log error "Mohavise adblock: first update run failed"
-        :return
-    }
+    /system script run $scriptName
 
     :log info "Mohavise adblock: installer completed"
 } on-error={
