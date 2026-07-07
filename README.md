@@ -29,7 +29,7 @@ This gives time for the parent core repo to build first, then this child repo bu
 
 ## Output Strategy
 
-This repo now supports separate endpoint lists.
+This repo supports separate endpoint lists.
 
 ```text
 adblock list = ads / trackers
@@ -37,21 +37,26 @@ adult list   = adult / NSFW domains
 combined     = adblock + adult together
 ```
 
-For normal production use, the MikroTik installer adds the two separate DNS Adlist URLs:
+For normal production use, the MikroTik installer adds only the adblock DNS Adlist URL by default:
 
 ```text
 mikrotik-adblock-hosts.txt
+```
+
+The adult DNS Adlist is optional and is not added by default:
+
+```text
 mikrotik-adult-hosts.txt
 ```
 
-This is better than only one combined list because you can later disable, troubleshoot, or manage adblock and adult blocking separately.
+This lets you remove or disable adult blocking on the router without the updater adding it back automatically.
 
 ## Materials / Output Files
 
 | File | Format | Main Use |
 | --- | --- | --- |
 | `mikrotik-adblock-hosts.txt` | Hosts format: `0.0.0.0 domain.com` | RouterOS DNS Adlist for ads / trackers |
-| `mikrotik-adult-hosts.txt` | Hosts format: `0.0.0.0 domain.com` | RouterOS DNS Adlist for adult / NSFW domains |
+| `mikrotik-adult-hosts.txt` | Hosts format: `0.0.0.0 domain.com` | Optional RouterOS DNS Adlist for adult / NSFW domains |
 | `mikrotik-combined-hosts.txt` | Hosts format: `0.0.0.0 domain.com` | Optional combined RouterOS DNS Adlist |
 | `mikrotik-adblock-domains.txt` | Plain domain list | Adblock category review/debug output |
 | `mikrotik-adult-domains.txt` | Plain domain list | Adult category review/debug output |
@@ -64,7 +69,7 @@ Simple explanation:
 
 ```text
 mikrotik-adblock-hosts.txt = main adblock DNS Adlist file
-mikrotik-adult-hosts.txt   = main adult DNS Adlist file
+mikrotik-adult-hosts.txt   = optional adult DNS Adlist file
 adblock-hosts.txt          = old combined compatibility file
 adblock-domains.rsc        = optional DNS static fallback
 ```
@@ -86,10 +91,15 @@ The installer creates or updates:
 /system scheduler  mohavise-adblock-daily
 ```
 
-The updater adds these two RouterOS DNS Adlist URLs if they are missing:
+The updater adds this RouterOS DNS Adlist URL if it is missing:
 
 ```text
 https://raw.githubusercontent.com/mohavise/mohavise-mikrotik-adblock/main/mikrotik-adblock-hosts.txt
+```
+
+The adult DNS Adlist URL is kept available but disabled by default in the updater:
+
+```text
 https://raw.githubusercontent.com/mohavise/mohavise-mikrotik-adblock/main/mikrotik-adult-hosts.txt
 ```
 
@@ -99,12 +109,38 @@ Then it runs:
 /ip dns adlist reload
 ```
 
+## Enable Adult DNS Adlist On MikroTik
+
+After installing, edit the generated RouterOS script and change:
+
+```routeros
+:local adultEnabled false
+```
+
+To:
+
+```routeros
+:local adultEnabled true
+```
+
+Then run:
+
+```routeros
+/system script run mohavise-adblock-update
+```
+
 ## Manual DNS Adlist Add
 
-If you do not want to use the installer, add both URLs manually:
+If you do not want to use the installer, add only the adblock URL manually:
 
 ```routeros
 /ip dns adlist add url="https://raw.githubusercontent.com/mohavise/mohavise-mikrotik-adblock/main/mikrotik-adblock-hosts.txt" ssl-verify=no
+/ip dns adlist reload
+```
+
+Optional adult URL:
+
+```routeros
 /ip dns adlist add url="https://raw.githubusercontent.com/mohavise/mohavise-mikrotik-adblock/main/mikrotik-adult-hosts.txt" ssl-verify=no
 /ip dns adlist reload
 ```
@@ -151,12 +187,13 @@ The signature makes future updates safer because scripts can identify only the i
 Parent/core repo validates and publishes category lists.
 Child repo converts category lists into MikroTik-ready outputs.
 Device-side script refreshes the final output on schedule.
+Adult blocking is optional on the router.
 Managed items are marked with a clear signature.
 Future changes should update managed items only, not unrelated user configuration.
 ```
 
-The installer adds DNS Adlist URLs only if they are missing, then runs `/ip dns adlist reload`.
-It does not delete DNS static records or unrelated adlist entries.
+The installer adds the adblock DNS Adlist URL only if it is missing, then runs `/ip dns adlist reload`.
+It does not delete DNS static records, unrelated adlist entries, or manually removed optional adult entries.
 
 ## Future Vision
 
