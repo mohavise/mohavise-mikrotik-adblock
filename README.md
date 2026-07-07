@@ -23,9 +23,11 @@ MikroTik RouterOS DNS Adlist
 
 GitHub Actions runs at `00:00 UTC`, which is `03:30 Asia/Tehran`.
 
-MikroTik runs locally at `04:10`.
+MikroTik adblock runs locally at `04:10`.
 
-This gives time for the parent core repo to build first, then this child repo builds MikroTik-ready outputs, then RouterOS reloads them.
+Optional MikroTik adult adblock runs locally at `04:15` only if the adult installer is imported.
+
+This gives time for the parent core repo to build first, then this child repo builds MikroTik-ready outputs, then RouterOS reloads the selected DNS Adlist endpoints.
 
 ## Output Strategy
 
@@ -37,19 +39,16 @@ adult list   = adult / NSFW domains
 combined     = adblock + adult together
 ```
 
-For normal production use, the MikroTik installer adds only the adblock DNS Adlist URL by default:
+The important design rule is:
 
 ```text
-mikrotik-adblock-hosts.txt
+separate endpoint
+separate installer
+separate RouterOS script
+separate RouterOS scheduler
 ```
 
-The adult DNS Adlist is optional and is not added by default:
-
-```text
-mikrotik-adult-hosts.txt
-```
-
-This lets you remove or disable adult blocking on the router without the updater adding it back automatically.
+The normal adblock process does not manage the adult process.
 
 ## Materials / Output Files
 
@@ -68,15 +67,19 @@ This lets you remove or disable adult blocking on the router without the updater
 Simple explanation:
 
 ```text
-mikrotik-adblock-hosts.txt = main adblock DNS Adlist file
-mikrotik-adult-hosts.txt   = optional adult DNS Adlist file
+mikrotik-adblock-hosts.txt = main adblock DNS Adlist endpoint
+mikrotik-adult-hosts.txt   = optional adult DNS Adlist endpoint
 adblock-hosts.txt          = old combined compatibility file
 adblock-domains.rsc        = optional DNS static fallback
 ```
 
-## Use In MikroTik
+## MikroTik Install Modes
 
-Run this once on MikroTik:
+This repo has two separate MikroTik install processes.
+
+### Normal adblock install
+
+This installs only the normal ad/tracker DNS Adlist process.
 
 ```routeros
 /tool fetch url="https://raw.githubusercontent.com/mohavise/mohavise-mikrotik-adblock/main/safe-install-mohavise-adblock.rsc" dst-path=safe-install-mohavise-adblock.rsc mode=https
@@ -84,73 +87,85 @@ Run this once on MikroTik:
 /file remove [find name=safe-install-mohavise-adblock.rsc]
 ```
 
-The installer creates or updates:
+It creates or updates:
 
 ```text
 /system script     mohavise-adblock-update
 /system scheduler  mohavise-adblock-daily
 ```
 
-The updater adds this RouterOS DNS Adlist URL if it is missing:
+Endpoint:
 
 ```text
 https://raw.githubusercontent.com/mohavise/mohavise-mikrotik-adblock/main/mikrotik-adblock-hosts.txt
 ```
 
-The adult DNS Adlist URL is kept available but disabled by default in the updater:
+### Optional adult install
+
+This installs only the adult/NSFW DNS Adlist process.
+
+Run this only if you want adult/NSFW blocking on MikroTik:
+
+```routeros
+/tool fetch url="https://raw.githubusercontent.com/mohavise/mohavise-mikrotik-adblock/main/safe-install-mohavise-adult-adblock.rsc" dst-path=safe-install-mohavise-adult-adblock.rsc mode=https
+/import file-name=safe-install-mohavise-adult-adblock.rsc
+/file remove [find name=safe-install-mohavise-adult-adblock.rsc]
+```
+
+It creates or updates:
+
+```text
+/system script     mohavise-adult-adblock-update
+/system scheduler  mohavise-adult-adblock-daily
+```
+
+Endpoint:
 
 ```text
 https://raw.githubusercontent.com/mohavise/mohavise-mikrotik-adblock/main/mikrotik-adult-hosts.txt
 ```
 
-Then it runs:
-
-```routeros
-/ip dns adlist reload
-```
-
-## Enable Adult DNS Adlist On MikroTik
-
-After installing, edit the generated RouterOS script and change:
-
-```routeros
-:local adultEnabled false
-```
-
-To:
-
-```routeros
-:local adultEnabled true
-```
-
-Then run:
-
-```routeros
-/system script run mohavise-adblock-update
-```
+If the adult installer is not imported, the adult script and scheduler do not exist. Running the normal adblock updater will not add the adult list.
 
 ## Manual DNS Adlist Add
 
-If you do not want to use the installer, add only the adblock URL manually:
+If you do not want to use installers, add only the endpoint you need.
+
+Normal adblock:
 
 ```routeros
 /ip dns adlist add url="https://raw.githubusercontent.com/mohavise/mohavise-mikrotik-adblock/main/mikrotik-adblock-hosts.txt" ssl-verify=no
 /ip dns adlist reload
 ```
 
-Optional adult URL:
+Optional adult:
 
 ```routeros
 /ip dns adlist add url="https://raw.githubusercontent.com/mohavise/mohavise-mikrotik-adblock/main/mikrotik-adult-hosts.txt" ssl-verify=no
 /ip dns adlist reload
 ```
 
+## Remove Adult Process From MikroTik
+
+If adult/NSFW blocking is no longer needed, remove only the adult process:
+
+```routeros
+/system scheduler remove [find name="mohavise-adult-adblock-daily"]
+/system script remove [find name="mohavise-adult-adblock-update"]
+/ip dns adlist remove [find url="https://raw.githubusercontent.com/mohavise/mohavise-mikrotik-adblock/main/mikrotik-adult-hosts.txt"]
+/ip dns adlist reload
+```
+
+The normal adblock process stays active and will not recreate the adult process.
+
 ## Files
 
 | File | Purpose |
 | --- | --- |
-| `safe-install-mohavise-adblock.rsc` | Fetches, imports, and removes the installer file safely |
-| `install-mohavise-adblock.rsc` | Creates the MikroTik updater script and daily scheduler |
+| `safe-install-mohavise-adblock.rsc` | Safe installer for normal ad/tracker DNS Adlist |
+| `install-mohavise-adblock.rsc` | Creates normal adblock updater script and scheduler |
+| `safe-install-mohavise-adult-adblock.rsc` | Safe installer for optional adult/NSFW DNS Adlist |
+| `install-mohavise-adult-adblock.rsc` | Creates optional adult updater script and scheduler |
 | `scripts/build-adblock.sh` | Downloads category core lists and builds MikroTik outputs |
 | `.github/workflows/update-adblock-prototype.yml` | Daily GitHub Actions build workflow |
 
@@ -179,6 +194,13 @@ managed-by=mohavise-mikrotik-adblock
 project=mohavise-adlist-block
 ```
 
+RouterOS device-side components also include component markers:
+
+```text
+component=adblock
+component=adult
+```
+
 The signature makes future updates safer because scripts can identify only the items managed by this project.
 
 ## Update-Ready Approach
@@ -186,14 +208,17 @@ The signature makes future updates safer because scripts can identify only the i
 ```text
 Parent/core repo validates and publishes category lists.
 Child repo converts category lists into MikroTik-ready outputs.
-Device-side script refreshes the final output on schedule.
+Normal adblock and adult adblock are separate RouterOS processes.
+Each process has its own script, scheduler, and endpoint.
 Adult blocking is optional on the router.
 Managed items are marked with a clear signature.
 Future changes should update managed items only, not unrelated user configuration.
 ```
 
-The installer adds the adblock DNS Adlist URL only if it is missing, then runs `/ip dns adlist reload`.
-It does not delete DNS static records, unrelated adlist entries, or manually removed optional adult entries.
+The normal installer adds the adblock DNS Adlist URL only if it is missing, then runs `/ip dns adlist reload`.
+The adult installer adds the adult DNS Adlist URL only if it is missing, then runs `/ip dns adlist reload`.
+
+Neither installer deletes DNS static records, unrelated adlist entries, or the other component.
 
 ## Future Vision
 
