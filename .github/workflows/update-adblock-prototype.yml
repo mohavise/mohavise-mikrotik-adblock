@@ -17,14 +17,23 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
-      - name: Build MikroTik adblock file
+      - name: Build adblock file
         run: bash ./scripts/build-adblock.sh
 
-      - name: Commit updated MikroTik adblock file
+      - name: Commit updated adblock file
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add mikrotik-adblock-hosts.txt
+          git add \
+            adblock-domains.txt \
+            adblock-hosts.txt \
+            adblock-domains.rsc \
+            mikrotik-combined-domains.txt \
+            mikrotik-adblock-domains.txt \
+            mikrotik-adult-domains.txt \
+            mikrotik-combined-hosts.txt \
+            mikrotik-adblock-hosts.txt \
+            mikrotik-adult-hosts.txt
           if git diff --cached --quiet; then
             echo "No changes to commit."
             exit 0
