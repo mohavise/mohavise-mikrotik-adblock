@@ -179,3 +179,9 @@ core-adblock-domains.txt → mikrotik-adblock-hosts.txt
 core-adult-domains.txt   → mikrotik-adult-hosts.txt
 core-domains.txt         → mikrotik-combined-hosts.txt + compatibility adblock-hosts.txt
 ```
+
+## Cleanup Policy
+
+Before removing any file from this repository, read `CLEANUP_POLICY.md`.
+
+Generated outputs, compatibility files, RouterOS fallback files, installers, workflows, and scripts are intentional parts of the process. Do not delete them only because they look duplicated, old, large, or generated.
