@@ -38,6 +38,7 @@ adblock-domains.rsc
 adblock-domains.txt
 adblock-hosts.txt
 install-mohavise-adblock.rsc
+install-mohavise-adult-adblock.rsc
 mikrotik-adblock-domains.txt
 mikrotik-adblock-hosts.txt
 mikrotik-adult-domains.txt
@@ -45,10 +46,15 @@ mikrotik-adult-hosts.txt
 mikrotik-combined-domains.txt
 mikrotik-combined-hosts.txt
 safe-install-mohavise-adblock.rsc
+safe-install-mohavise-adult-adblock.rsc
 scripts/build-adblock.sh
 .github/workflows/update-adblock-prototype.yml
 ```
 
 ## Notes
 
-`adblock-hosts.txt`, `adblock-domains.txt`, and `adblock-domains.rsc` are compatibility/fallback outputs. The `mikrotik-*` files are platform-specific category and combined outputs used for production, review, and future expansion.
+`adblock-hosts.txt`, `adblock-domains.txt`, and `adblock-domains.rsc` are compatibility/fallback outputs.
+
+The `mikrotik-*` files are platform-specific category and combined outputs used for production, review, and future expansion.
+
+The normal adblock installer and the adult installer are separate RouterOS processes. Do not merge or delete one only because the other exists.
