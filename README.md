@@ -2,7 +2,7 @@
 
 This repository is the MikroTik child/output repo of the main Mohavise adblock core project.
 
-It builds RouterOS-ready DNS Adlist outputs from the shared core domain list.
+It builds RouterOS-ready DNS Adlist outputs from the validated parent core lists.
 Source lists, upstream changes, custom blocks, allowlists, and data validation are managed in the parent core repo:
 
 ```text
@@ -25,29 +25,49 @@ GitHub Actions runs at `00:00 UTC`, which is `03:30 Asia/Tehran`.
 
 MikroTik runs locally at `04:10`.
 
-## Materials / Output Files
+This gives time for the parent core repo to build first, then this child repo builds MikroTik-ready outputs, then RouterOS reloads them.
 
-This repo generates three domain-related files from the same core list. They contain the same blocking material, but each one is prepared for a different MikroTik use case.
+## Output Strategy
+
+This repo now supports separate endpoint lists.
+
+```text
+adblock list = ads / trackers
+adult list   = adult / NSFW domains
+combined     = adblock + adult together
+```
+
+For normal production use, the MikroTik installer adds the two separate DNS Adlist URLs:
+
+```text
+mikrotik-adblock-hosts.txt
+mikrotik-adult-hosts.txt
+```
+
+This is better than only one combined list because you can later disable, troubleshoot, or manage adblock and adult blocking separately.
+
+## Materials / Output Files
 
 | File | Format | Main Use |
 | --- | --- | --- |
-| `adblock-domains.txt` | Plain domain list | Clean base output for review, debugging, and future converters |
-| `adblock-hosts.txt` | Hosts format: `0.0.0.0 domain.com` | Main file used by MikroTik RouterOS DNS Adlist |
-| `adblock-domains.rsc` | RouterOS script format | Fallback import method using `/ip dns static` records |
+| `mikrotik-adblock-hosts.txt` | Hosts format: `0.0.0.0 domain.com` | RouterOS DNS Adlist for ads / trackers |
+| `mikrotik-adult-hosts.txt` | Hosts format: `0.0.0.0 domain.com` | RouterOS DNS Adlist for adult / NSFW domains |
+| `mikrotik-combined-hosts.txt` | Hosts format: `0.0.0.0 domain.com` | Optional combined RouterOS DNS Adlist |
+| `mikrotik-adblock-domains.txt` | Plain domain list | Adblock category review/debug output |
+| `mikrotik-adult-domains.txt` | Plain domain list | Adult category review/debug output |
+| `mikrotik-combined-domains.txt` | Plain domain list | Combined review/debug output |
+| `adblock-hosts.txt` | Hosts format | Compatibility combined file; kept for old installs |
+| `adblock-domains.txt` | Plain domain list | Compatibility combined domain file |
+| `adblock-domains.rsc` | RouterOS script format | Optional fallback using `/ip dns static` records |
 
 Simple explanation:
 
 ```text
-adblock-domains.txt  = clean domain output
-adblock-hosts.txt    = main MikroTik DNS Adlist file
-adblock-domains.rsc  = RouterOS DNS static fallback script
+mikrotik-adblock-hosts.txt = main adblock DNS Adlist file
+mikrotik-adult-hosts.txt   = main adult DNS Adlist file
+adblock-hosts.txt          = old combined compatibility file
+adblock-domains.rsc        = optional DNS static fallback
 ```
-
-For normal MikroTik RouterOS v7 DNS Adlist usage, use `adblock-hosts.txt`.
-
-The `.rsc` file is optional and should be used only when DNS Adlist is not suitable or a DNS static fallback is needed.
-
-The parent repo is responsible for cleaning and validating the data before this repo builds the MikroTik outputs.
 
 ## Use In MikroTik
 
@@ -59,18 +79,44 @@ Run this once on MikroTik:
 /file remove [find name=safe-install-mohavise-adblock.rsc]
 ```
 
-The installer creates or updates a RouterOS script and scheduler. The scheduler refreshes the DNS Adlist daily.
+The installer creates or updates:
+
+```text
+/system script     mohavise-adblock-update
+/system scheduler  mohavise-adblock-daily
+```
+
+The updater adds these two RouterOS DNS Adlist URLs if they are missing:
+
+```text
+https://raw.githubusercontent.com/mohavise/mohavise-mikrotik-adblock/main/mikrotik-adblock-hosts.txt
+https://raw.githubusercontent.com/mohavise/mohavise-mikrotik-adblock/main/mikrotik-adult-hosts.txt
+```
+
+Then it runs:
+
+```routeros
+/ip dns adlist reload
+```
+
+## Manual DNS Adlist Add
+
+If you do not want to use the installer, add both URLs manually:
+
+```routeros
+/ip dns adlist add url="https://raw.githubusercontent.com/mohavise/mohavise-mikrotik-adblock/main/mikrotik-adblock-hosts.txt" ssl-verify=no
+/ip dns adlist add url="https://raw.githubusercontent.com/mohavise/mohavise-mikrotik-adblock/main/mikrotik-adult-hosts.txt" ssl-verify=no
+/ip dns adlist reload
+```
 
 ## Files
 
 | File | Purpose |
 | --- | --- |
-| `safe-install-mohavise-adblock.rsc` | Fetches, imports, and removes the installer file |
-| `install-mohavise-adblock.rsc` | Creates MikroTik adlist updater script and daily scheduler |
-| `adblock-domains.txt` | Generated plain domain list |
-| `adblock-hosts.txt` | Generated hosts-format file used by RouterOS DNS Adlist |
-| `adblock-domains.rsc` | Generated DNS static import fallback |
-| `scripts/build-adblock.sh` | Downloads the core list and builds the final MikroTik files |
+| `safe-install-mohavise-adblock.rsc` | Fetches, imports, and removes the installer file safely |
+| `install-mohavise-adblock.rsc` | Creates the MikroTik updater script and daily scheduler |
+| `scripts/build-adblock.sh` | Downloads category core lists and builds MikroTik outputs |
+| `.github/workflows/update-adblock-prototype.yml` | Daily GitHub Actions build workflow |
 
 ## Build
 
@@ -78,9 +124,19 @@ The installer creates or updates a RouterOS script and scheduler. The scheduler 
 ./scripts/build-adblock.sh
 ```
 
+The build script reads:
+
+```text
+core-domains.txt
+core-adblock-domains.txt
+core-adult-domains.txt
+```
+
+and generates MikroTik-ready combined, adblock-only, and adult-only outputs.
+
 ## Signature
 
-Generated items use this signature:
+Generated and managed items use this signature:
 
 ```text
 managed-by=mohavise-mikrotik-adblock
@@ -92,34 +148,34 @@ The signature makes future updates safer because scripts can identify only the i
 ## Update-Ready Approach
 
 ```text
-Parent/core repo validates and publishes the canonical list.
-Child repo converts the canonical list into MikroTik-ready outputs.
+Parent/core repo validates and publishes category lists.
+Child repo converts category lists into MikroTik-ready outputs.
 Device-side script refreshes the final output on schedule.
 Managed items are marked with a clear signature.
 Future changes should update managed items only, not unrelated user configuration.
 ```
 
-The installer adds the RouterOS DNS Adlist URL only if it is missing, then runs `/ip dns adlist reload`.
+The installer adds DNS Adlist URLs only if they are missing, then runs `/ip dns adlist reload`.
 It does not delete DNS static records or unrelated adlist entries.
 
 ## Future Vision
 
 ```text
-One clean parent list.
-Multiple child outputs.
-Same structure.
+One clean parent system.
+Separate category outputs.
+Multiple child platform outputs.
 Same timing.
 Same signature style.
 Safe daily updates.
-Easy rollback and future platform expansion.
+Easy rollback and future category expansion.
 ```
 
-Planned child/output targets can include MikroTik, Pi-hole, FortiGate, and other DNS/security platforms that can consume domain feeds.
+Planned future categories can include malware, gambling, social media, crypto, telemetry, and other DNS/security feeds.
 
 ## Logic
 
 ```text
-mohavise-adblock-core/core-domains.txt = validated canonical source
-mohavise-mikrotik-adblock/adblock-hosts.txt = MikroTik DNS Adlist output
-mohavise-mikrotik-adblock/adblock-domains.rsc = MikroTik DNS static fallback
+core-adblock-domains.txt → mikrotik-adblock-hosts.txt
+core-adult-domains.txt   → mikrotik-adult-hosts.txt
+core-domains.txt         → mikrotik-combined-hosts.txt + compatibility adblock-hosts.txt
 ```
