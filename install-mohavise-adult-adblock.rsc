@@ -19,33 +19,36 @@
 :log info \"Mohavise adult adblock: starting DNS Adlist update\"
 
 :do {
-    :if ([:len [/ip dns adlist find url=\$adultUrl]] = 0) do={
-        /ip dns adlist add url=\$adultUrl ssl-verify=no
-        :log info \"Mohavise adult adblock: adult DNS Adlist URL added\"
+    :local adlistId [/ip dns adlist find url=\$adultUrl]
+    :if ([:len \$adlistId] = 0) do={
+        /ip dns adlist add url=\$adultUrl ssl-verify=yes
+        :log info \"Mohavise adult adblock: secure DNS Adlist URL added\"
     } else={
-        :log info \"Mohavise adult adblock: adult DNS Adlist URL already exists; skipping add\"
+        /ip dns adlist set \$adlistId ssl-verify=yes
+        :log info \"Mohavise adult adblock: existing DNS Adlist verification enabled\"
     }
+
+    /ip dns adlist reload
 } on-error={
-    :log error \"Mohavise adult adblock: failed to add or verify adult DNS Adlist URL\"
+    :log error \"Mohavise adult adblock: DNS Adlist update failed\"
     :return
 }
 
-/ip dns adlist reload
 :log info \"Mohavise adult adblock: DNS Adlist update completed\"
 "
 
     :log info "Mohavise adult adblock: starting installer"
 
     :if ([:len [/system script find name=$scriptName]] = 0) do={
-        /system script add name=$scriptName policy=read,write,test source=$updateSource comment=$marker
+        /system script add name=$scriptName dont-require-permissions=no policy=read,write,test source=$updateSource comment=$marker
     } else={
-        /system script set [/system script find name=$scriptName] source=$updateSource policy=read,write,test comment=$marker
+        /system script set [/system script find name=$scriptName] dont-require-permissions=no source=$updateSource policy=read,write,test comment=$marker
     }
 
     :if ([:len [/system scheduler find name=$scheduleName]] = 0) do={
-        /system scheduler add name=$scheduleName start-time=04:15:00 interval=1d on-event="/system script run mohavise-adult-adblock-update" comment=$marker
+        /system scheduler add name=$scheduleName start-time=04:15:00 interval=1d on-event="/system script run mohavise-adult-adblock-update" policy=read,write,test comment=$marker
     } else={
-        /system scheduler set [/system scheduler find name=$scheduleName] start-time=04:15:00 interval=1d on-event="/system script run mohavise-adult-adblock-update" comment=$marker
+        /system scheduler set [/system scheduler find name=$scheduleName] start-time=04:15:00 interval=1d on-event="/system script run mohavise-adult-adblock-update" policy=read,write,test comment=$marker
     }
 
     /system script run $scriptName
