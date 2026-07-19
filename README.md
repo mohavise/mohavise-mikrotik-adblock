@@ -43,12 +43,23 @@ Creates or updates:
 ```text
 /system script     mohavise-adblock-update
 /system scheduler  mohavise-adblock-daily
+/ip dns adlist     mikrotik-adblock-hosts.txt URL
 ```
 
-Endpoint:
+## Remove Normal Adblock
+
+```routeros
+/tool fetch url="https://raw.githubusercontent.com/mohavise/mohavise-mikrotik-adblock/main/safe-remove-mohavise-adblock.rsc" dst-path="safe-remove-mohavise-adblock.rsc" check-certificate=yes-without-crl
+/import file-name="safe-remove-mohavise-adblock.rsc"
+/file remove [find name="safe-remove-mohavise-adblock.rsc"]
+```
+
+The remover deletes only:
 
 ```text
-https://raw.githubusercontent.com/mohavise/mohavise-mikrotik-adblock/main/mikrotik-adblock-hosts.txt
+/system script     mohavise-adblock-update
+/system scheduler  mohavise-adblock-daily
+/ip dns adlist     exact normal-adblock repository URL
 ```
 
 ## Install Optional Adult Adblock
@@ -64,15 +75,26 @@ Creates or updates:
 ```text
 /system script     mohavise-adult-adblock-update
 /system scheduler  mohavise-adult-adblock-daily
+/ip dns adlist     mikrotik-adult-hosts.txt URL
 ```
 
-Endpoint:
+## Remove Optional Adult Adblock
 
-```text
-https://raw.githubusercontent.com/mohavise/mohavise-mikrotik-adblock/main/mikrotik-adult-hosts.txt
+```routeros
+/tool fetch url="https://raw.githubusercontent.com/mohavise/mohavise-mikrotik-adblock/main/safe-remove-mohavise-adult-adblock.rsc" dst-path="safe-remove-mohavise-adult-adblock.rsc" check-certificate=yes-without-crl
+/import file-name="safe-remove-mohavise-adult-adblock.rsc"
+/file remove [find name="safe-remove-mohavise-adult-adblock.rsc"]
 ```
 
-The normal and adult processes are independent. Installing or updating one does not create, remove, or modify the other.
+The normal and adult components are independent. Installing, updating, or removing one does not modify the other.
+
+## Verify on MikroTik
+
+```routeros
+/ip dns adlist print where url~"mohavise-mikrotik-adblock"
+/system script print where name~"mohavise.*adblock"
+/system scheduler print where name~"mohavise.*adblock"
+```
 
 ## Manual DNS Adlist Add
 
@@ -92,14 +114,14 @@ Optional adult adblock:
 
 ## RouterOS Security and Safety
 
-The safe installers perform:
+The safe install and safe removal wrappers perform:
 
 ```text
-Remove old temporary installer
+Remove stale temporary file
 → secure HTTPS fetch with certificate verification
 → RouterOS verbose dry-run import
 → real import
-→ remove temporary installer
+→ remove temporary file
 ```
 
 The installed updater scripts:
@@ -111,9 +133,9 @@ Add the managed DNS Adlist URL if missing
 → log success or failure
 ```
 
-RouterOS uses its built-in certificate trust store for secure fetch and DNS Adlist certificate verification.
+The removal scripts are idempotent and remove only exact project-owned scheduler names, script names, and repository URLs. They do not remove unrelated DNS Adlist entries or DNS static records.
 
-The installers do not remove unrelated DNS Adlist entries, DNS static records, or the other component.
+RouterOS uses its built-in certificate trust store for secure fetch and DNS Adlist certificate verification.
 
 ## Repository Validation
 
@@ -157,23 +179,18 @@ policy=read,write,test
 
 The GitHub workflow prevents overlapping runs, has a 15-minute timeout, and rebases before pushing to reduce update conflicts.
 
-## Remove Adult Process
-
-```routeros
-/system scheduler remove [find name="mohavise-adult-adblock-daily"]
-/system script remove [find name="mohavise-adult-adblock-update"]
-/ip dns adlist remove [find url="https://raw.githubusercontent.com/mohavise/mohavise-mikrotik-adblock/main/mikrotik-adult-hosts.txt"]
-/ip dns adlist reload
-```
-
 ## Repository Files
 
 | File | Purpose |
 | --- | --- |
-| `safe-install-mohavise-adblock.rsc` | Secure normal-adblock installer |
+| `safe-install-mohavise-adblock.rsc` | Secure normal-adblock installer wrapper |
 | `install-mohavise-adblock.rsc` | Creates normal updater and scheduler |
-| `safe-install-mohavise-adult-adblock.rsc` | Secure optional-adult installer |
+| `safe-remove-mohavise-adblock.rsc` | Secure normal-adblock removal wrapper |
+| `remove-mohavise-adblock.rsc` | Removes only normal managed resources |
+| `safe-install-mohavise-adult-adblock.rsc` | Secure optional-adult installer wrapper |
 | `install-mohavise-adult-adblock.rsc` | Creates adult updater and scheduler |
+| `safe-remove-mohavise-adult-adblock.rsc` | Secure optional-adult removal wrapper |
+| `remove-mohavise-adult-adblock.rsc` | Removes only adult managed resources |
 | `scripts/build-adblock.sh` | Builds and validates RouterOS outputs |
 | `.github/workflows/update-adblock-prototype.yml` | Daily GitHub Actions workflow |
 
@@ -204,4 +221,4 @@ component=adult
 
 ## Cleanup Policy
 
-Before removing repository files, read `CLEANUP_POLICY.md`. Generated outputs, compatibility files, fallback files, installers, workflows, and scripts are intentional parts of the project.
+Before removing repository files, read `CLEANUP_POLICY.md`. Generated outputs, compatibility files, fallback files, installers, removers, workflows, and scripts are intentional parts of the project.
