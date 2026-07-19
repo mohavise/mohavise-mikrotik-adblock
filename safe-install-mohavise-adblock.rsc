@@ -9,22 +9,21 @@
     :log info "Mohavise adblock: starting safe installer"
 
     :if ([:len [/file find name=$installFile]] > 0) do={
-        :do {
-            /file remove [find name=$installFile]
-        } on-error={
-            :log warning "Mohavise adblock: could not remove old installer file before download"
-        }
+        /file remove [find name=$installFile]
     }
 
     :do {
-        /tool fetch url=$installUrl dst-path=$installFile mode=https
+        /tool fetch url=$installUrl dst-path=$installFile check-certificate=yes-without-crl
     } on-error={
-        :log error "Mohavise adblock: failed to download installer"
+        :log error "Mohavise adblock: failed secure installer download"
         :return
     }
 
-    :if ([:len [/file find name=$installFile]] = 0) do={
-        :log error "Mohavise adblock: installer file was not created after download"
+    :do {
+        /import file-name=$installFile verbose=yes dry-run
+    } on-error={
+        :log error "Mohavise adblock: installer syntax validation failed"
+        /file remove [find name=$installFile]
         :return
     }
 
@@ -32,20 +31,11 @@
         /import file-name=$installFile
     } on-error={
         :log error "Mohavise adblock: failed to import installer"
-        :do {
-            /file remove [find name=$installFile]
-        } on-error={
-            :log warning "Mohavise adblock: could not remove installer file after failed import"
-        }
+        /file remove [find name=$installFile]
         :return
     }
 
-    :do {
-        /file remove [find name=$installFile]
-    } on-error={
-        :log warning "Mohavise adblock: installer imported but temporary file could not be removed"
-    }
-
+    /file remove [find name=$installFile]
     :log info "Mohavise adblock: safe installer completed"
 } on-error={
     :log error "Mohavise adblock: unexpected safe installer error"
