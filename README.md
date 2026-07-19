@@ -90,7 +90,7 @@ Optional adult adblock:
 /ip dns adlist reload
 ```
 
-## Security and Safety Logic
+## RouterOS Security and Safety
 
 The safe installers perform:
 
@@ -115,6 +115,32 @@ RouterOS uses its built-in certificate trust store for secure fetch and DNS Adli
 
 The installers do not remove unrelated DNS Adlist entries, DNS static records, or the other component.
 
+## Repository Validation
+
+`scripts/build-adblock.sh` completes all checks before replacing any published output.
+
+Checks include:
+
+- HTTPS source download failure handling, retries, and timeouts
+- lowercase and whitespace normalization
+- duplicate removal and deterministic sorting
+- minimum counts for combined, adblock, and adult lists
+- strict domain syntax validation
+- rejection of IP addresses and malformed records
+- confirmation that adblock and adult entries exist in the combined list
+- protection against an entry-count reduction greater than 20%
+- deterministic output generation without timestamps
+
+Current minimums:
+
+| List | Minimum domains |
+| --- | ---: |
+| Combined | 10,000 |
+| Adblock | 10,000 |
+| Adult | 1,000 |
+
+If any validation fails, the workflow stops before changing the published files.
+
 ## Daily Timing
 
 | Process | Time |
@@ -128,6 +154,8 @@ Both updater scripts and schedulers use:
 ```routeros
 policy=read,write,test
 ```
+
+The GitHub workflow prevents overlapping runs, has a 15-minute timeout, and rebases before pushing to reduce update conflicts.
 
 ## Remove Adult Process
 
@@ -146,7 +174,7 @@ policy=read,write,test
 | `install-mohavise-adblock.rsc` | Creates normal updater and scheduler |
 | `safe-install-mohavise-adult-adblock.rsc` | Secure optional-adult installer |
 | `install-mohavise-adult-adblock.rsc` | Creates adult updater and scheduler |
-| `scripts/build-adblock.sh` | Builds RouterOS outputs |
+| `scripts/build-adblock.sh` | Builds and validates RouterOS outputs |
 | `.github/workflows/update-adblock-prototype.yml` | Daily GitHub Actions workflow |
 
 ## Build
