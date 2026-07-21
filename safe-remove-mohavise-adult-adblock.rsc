@@ -18,7 +18,7 @@
         /tool fetch url=$removeUrl dst-path=$removeFile check-certificate=yes-without-crl
     } on-error={
         :log error "Mohavise adult adblock: failed secure remover download"
-        :return
+        :return ""
     }
 
     :do {
@@ -26,7 +26,7 @@
     } on-error={
         :log error "Mohavise adult adblock: remover syntax validation failed"
         /file remove [find name=$removeFile]
-        :return
+        :return ""
     }
 
     :do {
@@ -34,7 +34,7 @@
     } on-error={
         :log error "Mohavise adult adblock: failed to import remover"
         /file remove [find name=$removeFile]
-        :return
+        :return ""
     }
 
     /file remove [find name=$removeFile]

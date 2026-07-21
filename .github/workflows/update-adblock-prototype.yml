@@ -24,6 +24,9 @@ jobs:
         with:
           fetch-depth: 0
 
+      - name: Validate RouterOS control flow
+        run: bash ./scripts/validate-routeros-control-flow.sh
+
       - name: Build and validate outputs
         run: bash ./scripts/build-adblock.sh
 

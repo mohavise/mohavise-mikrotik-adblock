@@ -31,7 +31,7 @@
     /ip dns adlist reload
 } on-error={
     :log error \"Mohavise adblock: DNS Adlist update failed\"
-    :return
+    :return \"\"
 }
 
 :log info \"Mohavise adblock: DNS Adlist update completed\"

@@ -16,7 +16,7 @@
         /tool fetch url=$installUrl dst-path=$installFile check-certificate=yes-without-crl
     } on-error={
         :log error "Mohavise adblock: failed secure installer download"
-        :return
+        :return ""
     }
 
     :do {
@@ -24,7 +24,7 @@
     } on-error={
         :log error "Mohavise adblock: installer syntax validation failed"
         /file remove [find name=$installFile]
-        :return
+        :return ""
     }
 
     :do {
@@ -32,7 +32,7 @@
     } on-error={
         :log error "Mohavise adblock: failed to import installer"
         /file remove [find name=$installFile]
-        :return
+        :return ""
     }
 
     /file remove [find name=$installFile]
