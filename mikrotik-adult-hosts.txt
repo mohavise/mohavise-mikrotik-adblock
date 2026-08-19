@@ -27690,6 +27690,7 @@
 0.0.0.0 javguruhd.com
 0.0.0.0 javhard.org
 0.0.0.0 javhaven.com
+0.0.0.0 javhay.buzz
 0.0.0.0 javhay.click
 0.0.0.0 javhay.co
 0.0.0.0 javhay.cyou
@@ -27760,6 +27761,7 @@
 0.0.0.0 javhdsex.net
 0.0.0.0 javhdvietsub.com
 0.0.0.0 javhdworld.com
+0.0.0.0 javhdz.city
 0.0.0.0 javhdz.fun
 0.0.0.0 javhdz.hot
 0.0.0.0 javhdz.pro
@@ -55014,6 +55016,7 @@
 0.0.0.0 vlxx.moe
 0.0.0.0 vlxx.moi
 0.0.0.0 vlxx.money
+0.0.0.0 vlxx.ms
 0.0.0.0 vlxx.mx
 0.0.0.0 vlxx.net
 0.0.0.0 vlxx.network
