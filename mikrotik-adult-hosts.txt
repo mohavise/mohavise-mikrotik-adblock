@@ -7679,6 +7679,7 @@
 0.0.0.0 cap3.autos
 0.0.0.0 cap3.beer
 0.0.0.0 cap3.click
+0.0.0.0 cap3.email
 0.0.0.0 cap3.monster
 0.0.0.0 cap3.pics
 0.0.0.0 cap3.pro
@@ -18307,7 +18308,10 @@
 0.0.0.0 gaicaocap.xyz
 0.0.0.0 gaichanh.co
 0.0.0.0 gaidam18.com
+0.0.0.0 gaidep.blog
 0.0.0.0 gaidepvn.xyz
+0.0.0.0 gaidepxx.com
+0.0.0.0 gaidepxx.me
 0.0.0.0 gaigoi.app
 0.0.0.0 gaigoi.homes
 0.0.0.0 gaigoi.id
@@ -27713,6 +27717,7 @@
 0.0.0.0 javhd.bid
 0.0.0.0 javhd.bio
 0.0.0.0 javhd.charity
+0.0.0.0 javhd.co.uk
 0.0.0.0 javhd.com
 0.0.0.0 javhd.contact
 0.0.0.0 javhd.exchange
@@ -37949,6 +37954,7 @@
 0.0.0.0 phim18hd.net
 0.0.0.0 phim18hd.one
 0.0.0.0 phim18hd.top
+0.0.0.0 phim18k.blog
 0.0.0.0 phim18k.com
 0.0.0.0 phim18moi.net
 0.0.0.0 phim18vn.com
@@ -44760,6 +44766,7 @@
 0.0.0.0 s.fapax.pro
 0.0.0.0 s.fapcat.com
 0.0.0.0 s.freeteenpussypic.com
+0.0.0.0 s.gaidep.blog
 0.0.0.0 s.jzzo.com
 0.0.0.0 s.liveanal.tv
 0.0.0.0 s.lolsex.eu
@@ -46578,6 +46585,7 @@
 0.0.0.0 sextop1.page
 0.0.0.0 sextop1.porn
 0.0.0.0 sextop1.site
+0.0.0.0 sextop1.spa
 0.0.0.0 sextop1.team
 0.0.0.0 sextop1.video
 0.0.0.0 sextop10.pro
@@ -48881,6 +48889,7 @@
 0.0.0.0 subcuckolds.com
 0.0.0.0 subespanol.top
 0.0.0.0 subirporno.com
+0.0.0.0 subjav.buzz
 0.0.0.0 subjav.live
 0.0.0.0 subjav.org
 0.0.0.0 subjav.sex
@@ -53384,6 +53393,7 @@
 0.0.0.0 v.fapster.xxx
 0.0.0.0 v.hog.tv
 0.0.0.0 v.japaneseporn.xxx
+0.0.0.0 v.javhd.co.uk
 0.0.0.0 v.javhdo.net
 0.0.0.0 v.jizzoncam.com
 0.0.0.0 v.liveanal.tv
@@ -55103,6 +55113,7 @@
 0.0.0.0 vngay.net
 0.0.0.0 vnhentai.vip
 0.0.0.0 vnok.net
+0.0.0.0 vnsextop1.com
 0.0.0.0 vnt.megaxh.com
 0.0.0.0 vnt.xhamster.com
 0.0.0.0 vnt.xhamster.desi
@@ -72182,6 +72193,7 @@
 0.0.0.0 x.fap.to
 0.0.0.0 x.gay-porevo.mobi
 0.0.0.0 x.ijavhd.com
+0.0.0.0 x.javhd.co.uk
 0.0.0.0 x.nude-moon.fun
 0.0.0.0 x.onlinetube.tv
 0.0.0.0 x.phimsexsub.pw
