@@ -138,6 +138,7 @@
 :do { /ip dns static add name=0af2a962b0102942d9a7df351b20be55.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=0aior18v.xyz address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=0aokpbwui.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
+:do { /ip dns static add name=0av9w1ubbh.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=0awdiotf.xyz address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=0b00553438.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=0b14ec78e5.4a1dcfa305.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
@@ -2405,6 +2406,7 @@
 :do { /ip dns static add name=3tv4botiq.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=3txxx.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=3u3ymbqj.xyz address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
+:do { /ip dns static add name=3uoq2upcx3rfcqh6jtywr.cfd address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=3uovpvhi8flm6ktzmzn.cfd address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=3v14lgwnojml1i9ekvi175yeunr5c1qom8.rest address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=3vetz.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
@@ -2771,6 +2773,7 @@
 :do { /ip dns static add name=4l5bbkug99.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=4lbk4yuhj5upn7vvkl.cfd address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=4link.it address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
+:do { /ip dns static add name=4lqs5j3ckn.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=4mdhukjpp.ggccxpj004.xyz address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=4mlhn1ocg4.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=4mp.xewp5et8izo2eq.cyou address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
@@ -3089,6 +3092,7 @@
 :do { /ip dns static add name=5ikanhm.top address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=5ipifco2tf.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=5ivy3ikkt.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
+:do { /ip dns static add name=5j01ouj0l.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=5j45n3f6r.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=5jhvejxc1ou3g76vpzm7wmcuh7iktz.cfd address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=5jj6zcxpo.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
@@ -3121,6 +3125,7 @@
 :do { /ip dns static add name=5nt1gx7o57.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=5ntq14y5y.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=5o8aj5nt.de address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
+:do { /ip dns static add name=5ob8leczt2ggv1p2t.rest address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=5olcvqmqp71qqy.rest address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=5oovx2t8rl04.thebarrecollective.co address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=5p35xkp1p.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
@@ -3246,6 +3251,7 @@
 :do { /ip dns static add name=62a53367c9.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=62ad.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=63-217-112-145.static.pccwglobal.net.iberostar.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
+:do { /ip dns static add name=6328f5f69d.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=632a08d66b.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=6341e249b2.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=634f8fb116.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
@@ -3927,6 +3933,7 @@
 :do { /ip dns static add name=86a988b20f.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=86b1d5df81.21b95312a1.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=86c67c238d.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
+:do { /ip dns static add name=86k3uw8q98.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=86o5bui4n.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=86ryo1rfm7r7erxwp4.cfd address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=86services.net address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
@@ -6514,6 +6521,7 @@
 :do { /ip dns static add name=aa2hzrmu9.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=aa2share.booru.org address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=aa3zx8wko.top address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
+:do { /ip dns static add name=aa47dc0952.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=aa4jq9non.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=aa52jm08ly.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=aa6129f84a.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
@@ -12180,6 +12188,7 @@
 :do { /ip dns static add name=airs.adpinfo.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=airshedcoart.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=airshedmammets.qpon address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
+:do { /ip dns static add name=airsick32.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=airst.giize.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=airthsmoshavcalles.qpon address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=airwavetrouss.cfd address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
@@ -12195,6 +12204,7 @@
 :do { /ip dns static add name=aiteentube.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=aitlewqvasxut.online address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=aitrades.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
+:do { /ip dns static add name=aitrejydphpbl.website address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=aivaylaco.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=aivvr.laredoute.co.uk address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=aivzqagmhkndd.online address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
@@ -12390,6 +12400,7 @@
 :do { /ip dns static add name=aksudsjz.troldtekt.de address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=aksudsjz.troldtekt.se address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=aksvougxccpvg.online address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
+:do { /ip dns static add name=aksxvnjfmkcww.online address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=aktigzkm.bigbag.dk address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=aktigzkm.bollerup-jensen.dk address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=aktigzkm.fyr-selv.dk address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
@@ -13678,6 +13689,7 @@
 :do { /ip dns static add name=amerealesulvas.cyou address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=american-porno.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=american-pornstar.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
+:do { /ip dns static add name=americanacademyofthermology.org address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=americancumdolls.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=americannaziparty.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=americanos.v4company.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
@@ -15840,6 +15852,7 @@
 :do { /ip dns static add name=anews.cc address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=anews7.nvwu.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=anewshrivel.qpon address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
+:do { /ip dns static add name=aneysrbzvegua.space address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=angarebbohmite.qpon address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=angarebkikuyu.shop address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=angaskukeripartile.qpon address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
@@ -16397,6 +16410,7 @@
 :do { /ip dns static add name=anna-angel.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=anna.anunciojuridico.com.br address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=anna.drannacabeca.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
+:do { /ip dns static add name=annalgraffer.qpon address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=annaliseangela.girlsflashingtits.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=annamin.cuntcam.club address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=annangel.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
@@ -16623,6 +16637,7 @@
 :do { /ip dns static add name=anwdrumi.in address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=anwexda.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=anwgmaonmzz.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
+:do { /ip dns static add name=anwhzewejtcje.space address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=anwjlyjthfucs.website address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=anx-new.learnwithhomer.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=anx-new.littlepassports.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
@@ -19525,6 +19540,7 @@
 :do { /ip dns static add name=arbeli.org address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=arbetaren.innocraft.cloud address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=arbitryoccurse.cyou address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
+:do { /ip dns static add name=arbitrytenuate.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=arbja.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=arbkos.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=arbsformful.qpon address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
@@ -19625,6 +19641,7 @@
 :do { /ip dns static add name=argentinalove.net address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=argentinaxp.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=argilsmarsh.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
+:do { /ip dns static add name=arglesalicemitt.cyou address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=arglesmtn.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=arglingpistole.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=argo.trueluxuryvillas.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
@@ -19747,6 +19764,7 @@
 :do { /ip dns static add name=arranthijacks.qpon address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=arrasinutile.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=arraydepressinginnocence.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
+:do { /ip dns static add name=arresttuik.qpon address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=arrethumps.cfd address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=arridedskinked.cfd address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=arrietty.nrj.fr address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
@@ -19845,6 +19863,7 @@
 :do { /ip dns static add name=arvwwu.stepstone.be address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=arwdcrdpiwinc.site address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=arwff.menopausecare.co.uk address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
+:do { /ip dns static add name=arwwoejvxsvfy.space address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=arx8x.net address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=arxbentlet.cfd address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=arxbuoyage.cyou address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
@@ -20923,6 +20942,7 @@
 :do { /ip dns static add name=ateveq.street-beat.ru address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=atfbooru.ninja address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=atfcj.buypetals.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
+:do { /ip dns static add name=atgpwurifh.in address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=atgroup-link.id address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=atgt.grafana.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=atgvmlnbtnlxl.website address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
@@ -22101,6 +22121,7 @@
 :do { /ip dns static add name=aytgk8rfu4.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=ayujucfsngjvl.space address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=ayuyublipped.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
+:do { /ip dns static add name=ayvwhsqziyjts.site address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=ayxewp.lextenso.fr address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=ayxqupdscnp.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=ayyaar.ir address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
@@ -22173,6 +22194,7 @@
 :do { /ip dns static add name=aziani.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=azianiiron.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=azianimodels.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
+:do { /ip dns static add name=azimuthsifters.cyou address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=aziqhpijhudvv.online address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=azjik.shophigh.co.uk address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=azjmp.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
@@ -23367,6 +23389,7 @@
 :do { /ip dns static add name=bastardnonethelessuseless.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=bastianrugging.cfd address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=bastingart.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
+:do { /ip dns static add name=bastsscotty.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=basuey.toyscenter.it address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=bat.bing.net address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=bat.heelix.be address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
@@ -23566,6 +23589,7 @@
 :do { /ip dns static add name=bbs.xhamster.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=bbscamp.net address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=bbsex.org address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
+:do { /ip dns static add name=bbsjgxukewgcl.online address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=bbssgjpbdrurh.space address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=bbtblrnude.club address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=bbtpl.finney-co.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
@@ -24412,6 +24436,7 @@
 :do { /ip dns static add name=bejav.tv address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=bejewelfozy.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=bejuate.ru address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
+:do { /ip dns static add name=bejucopask.cfd address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=bejwponulwdwx.online address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=bekannt-im-web.de address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=bekickmohels.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
@@ -24577,6 +24602,7 @@
 :do { /ip dns static add name=beppk.travelsmith.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=bepresshoaxed.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=beprnlbqbqwcb.online address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
+:do { /ip dns static add name=bequalmwyes.cyou address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=beqvol.nabbi.sk address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=berangkasilmu.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=beratedtwistolenid.cfd address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
@@ -25312,6 +25338,7 @@
 :do { /ip dns static add name=bgvzasralyngg.space address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=bgwdym.proidee.ch address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=bgwncsntrack.trackaffmktg.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
+:do { /ip dns static add name=bgwsktadxvgjv.website address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=bgxdlffrwixvl.online address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=bgxywynpesqlj.site address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=bgynhrgobyjbo.space address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
@@ -26064,6 +26091,7 @@
 :do { /ip dns static add name=birdpriceall.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=birdseyewings.co address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=biribatwinkle.cfd address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
+:do { /ip dns static add name=birkuqpprfemv.site address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=birnbaum.net.anwalt.de address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=birsynetted.qpon address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=birthbox.hypnobirthing-positive-birth.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
@@ -26151,6 +26179,7 @@
 :do { /ip dns static add name=bivocalconsy.cyou address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=bivogrvfyoj.in address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=bivvmhkimlqzq.store address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
+:do { /ip dns static add name=biw65m3cxu3crfuzo.cfd address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=biwfzaffpksun.online address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=bixapamfwltkk.space address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=bixb.exchange address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
@@ -26528,6 +26557,7 @@
 :do { /ip dns static add name=blaredproblem.qpon address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=blarinahiate.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=blaring-chocolate.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
+:do { /ip dns static add name=blaringfinning.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=blas-mir-einen.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=blasenporno.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=blasoneuodic.qpon address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
@@ -26575,6 +26605,7 @@
 :do { /ip dns static add name=blendedliteral.cfd address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=blendee.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=blendox.cfd address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
+:do { /ip dns static add name=blennyherne.cfd address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=blenskeys.cfd address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=blessesunwary.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=blesspizzas.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
@@ -26582,6 +26613,7 @@
 :do { /ip dns static add name=bleua.ecefibwja.xyz address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=bleymesrackets.cfd address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=blfi.bodylab.fi address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
+:do { /ip dns static add name=blflslfkddvcv.online address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=blfrrfanpmwqt.website address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=blg-1216lb.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=blga.belvans.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
@@ -27079,6 +27111,7 @@
 :do { /ip dns static add name=bmwaeghntpfdb.online address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=bmwebm.org address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=bmwjdcvvlhbrb.space address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
+:do { /ip dns static add name=bmwlvpzxexpkq.website address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=bmxavtdjqvdqn.store address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=bmxpsxdqliuhj.space address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=bmyudk.clarins.de address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
@@ -27841,6 +27874,7 @@
 :do { /ip dns static add name=bottlertilly.qpon address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=bottlestrivingtarget.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=bottsdieted.cfd address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
+:do { /ip dns static add name=botulintrembly.cyou address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=botw.topbucks.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=bouchra2.actinutrivia.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=boudja.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
@@ -28120,6 +28154,7 @@
 :do { /ip dns static add name=bqszugpxadzlg.store address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=bqtboylklunvj.space address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=bqtxcs.bellacoastaldecor.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
+:do { /ip dns static add name=bqulkluzienpw.online address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=bquvm.performancebyie.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=bqvndd.ifood.com.br address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=bqwjmvbjodclc.space address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
@@ -28222,6 +28257,7 @@
 :do { /ip dns static add name=brannywallaby.cfd address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=brasencracket.cyou address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=brasenmiserly.qpon address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
+:do { /ip dns static add name=brashesdetort.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=brashgrandchild.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=brasileirinhas.com.br address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=brasileirinhas.top address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
@@ -29489,6 +29525,7 @@
 :do { /ip dns static add name=buvhlspktqqoi.online address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=buvq6bkcn3nxjoifr.rest address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=buwiibffvwhjs.online address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
+:do { /ip dns static add name=buwnlhktpeqlc.space address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=buxeousanoaorig.cfd address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=buxflow.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=buxrundhtjfzj.space address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
@@ -29894,6 +29931,7 @@
 :do { /ip dns static add name=bzp2fqad7o.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=bzpgi.plankandbeam.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=bzpkiwct.lf.coffee address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
+:do { /ip dns static add name=bzpnhlysdnfmq.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=bzpoa.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=bzpogcssaxbmc.space address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=bzpqekgjvaqkn.website address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
@@ -32199,6 +32237,7 @@
 :do { /ip dns static add name=cathrinsarcler.cfd address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=catiuribripent.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=catlanguage.net address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
+:do { /ip dns static add name=catnapslondres.qpon address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=catng.crateandbarrel.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=catoixeam.click address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=catoonfuck.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
@@ -35623,6 +35662,7 @@
 :do { /ip dns static add name=charysicer.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=chaseherbalpasty.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=chasemodeler.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
+:do { /ip dns static add name=chasesseqqreburn.qpon address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=chasmsrecite.cyou address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=chassis.net.mydays.de address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=chastitygurls.bdsmlr.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
@@ -35757,6 +35797,7 @@
 :do { /ip dns static add name=chavosh.org address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=chawanunfast.qpon address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=chbyjdkjxowgss.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
+:do { /ip dns static add name=chceddafwreir.site address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=chcgwqlrforbz.space address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=chcknmhlovpoc.site address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=chdelbdljersf.online address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
@@ -35901,6 +35942,7 @@
 :do { /ip dns static add name=chezsissysunket.cfd address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=chfpgcbe.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=chftwkoiswquf.site address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
+:do { /ip dns static add name=chfylrdqoomii.site address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=chgrods.cyou address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=chgvlw.eider.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=chgwwj.klimate.nl address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
@@ -36239,6 +36281,7 @@
 :do { /ip dns static add name=chujstkfubpix.space address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=chukchak.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=chukchipias.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
+:do { /ip dns static add name=chukkaracharentries.cyou address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=chulansorrow.cfd address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=chumawihashing.cfd address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=chumleaf.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
@@ -36541,6 +36584,7 @@
 :do { /ip dns static add name=cjoaootrbhfcx.site address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=cjodg.regalitos.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=cjohftnninpfu.online address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
+:do { /ip dns static add name=cjokeswyxctoe.space address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=cjpccsnjqxbwf.site address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=cjpeiq.rmgbuyukbeden.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=cjqnkzqlwetrd.website address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
@@ -36562,6 +36606,7 @@
 :do { /ip dns static add name=cjutqvopetliy.space address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=cjvdfw.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=cjwtfp.esimsar.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
+:do { /ip dns static add name=cjwvyhvwyispv.website address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=cjwyzhzjwmzmf.site address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=cjzxhimedlzra.online address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=ck-cdn.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
@@ -36707,6 +36752,7 @@
 :do { /ip dns static add name=claretsreginduftite.cyou address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=clarice.streema.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=clarifyverse.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
+:do { /ip dns static add name=clarinaseamostesseda.cfd address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=claring-loccelkin.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=clarinmeanest.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=clarity-il.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
@@ -36842,6 +36888,7 @@
 :do { /ip dns static add name=cleedm.pittmandavis.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=cleeknhanfurzy.cyou address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=cleen.ru address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
+:do { /ip dns static add name=cleftplumous.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=clenchedquarterbackluxuriant.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=clenchedtea.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=cleoidbarbescharac.cfd address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
@@ -38081,6 +38128,7 @@
 :do { /ip dns static add name=cnfgthelltffc.site address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=cngbpl.directliquidation.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=cnhuxrpiawywk.space address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
+:do { /ip dns static add name=cniaautrk.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=cnihcx.xlmoto.fi address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=cnjikkiehkpea.site address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=cnkbiotmdnegp.space address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
@@ -38318,6 +38366,7 @@
 :do { /ip dns static add name=coercesquashed.cfd address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=coercivepoorly.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=coerectsangha.cfd address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
+:do { /ip dns static add name=coesweezle.cfd address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=coffe.vfyvideospay.shop address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=coffeavirify.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=coffee.brandzaak.nl address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
@@ -38390,6 +38439,7 @@
 :do { /ip dns static add name=coiphimsex.org address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=coisj3nil.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=coithienthai.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
+:do { /ip dns static add name=coiywmautzjj.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=cojiendo.top address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=cokedalk.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=cokedpariti.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
@@ -40522,6 +40572,7 @@
 :do { /ip dns static add name=costco-adbutler.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=costefficiencies.ironmountain.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=costo-us.costco.dev.cjmadobe.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
+:do { /ip dns static add name=costrelwinks.cfd address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=costum.maltemartenmethod.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=costumeoffers.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=costwinner.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
@@ -40808,6 +40859,7 @@
 :do { /ip dns static add name=cowlitzukiyoye.cyou address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=cowlssubtly.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=cowpeasgnatty.qpon address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
+:do { /ip dns static add name=cowpokealterumscandal.cfd address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=cowsex.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=cowshernani.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=coxalgyjessingtempter.qpon address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
@@ -41043,6 +41095,7 @@
 :do { /ip dns static add name=cqcsvgiryffsf.online address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=cqdnr.musclesport.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=cqemus.gartenhaus-gmbh.de address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
+:do { /ip dns static add name=cqeoqlmikgrwd.online address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=cqeorasldxsbw.store address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=cqf.ftrqzvz16iyr23ur7jt5kbc.cyou address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=cqfhggbbichpi.space address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
@@ -41812,6 +41865,7 @@
 :do { /ip dns static add name=csaladiszex.hu address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=csalhh.okay.cz address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=csaoznzwojucp.site address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
+:do { /ip dns static add name=csbgolubqbwzj.site address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=csbmey.viherpeukalot.fi address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=csboab.fiufiu.co address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=csbrplgzinqii.site address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
@@ -42280,6 +42334,7 @@
 :do { /ip dns static add name=cudroitcdhysf.online address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=cudrqv.sts.pl address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=cueafuqnoeewx.space address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
+:do { /ip dns static add name=cueaozvqsakbnv.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=cuecaporno.xxx address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=cuegfjlcarbdq.online address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=cueingdivorce.qpon address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
@@ -42345,6 +42400,7 @@
 :do { /ip dns static add name=cugoxnkpmryfe.space address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=cuhpxkxfxfygd.online address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=cuhtgextakvil.online address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
+:do { /ip dns static add name=cuhxctpshjemy.online address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=cuhyucfeymzw.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=cuino.boironusa.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=cuiron.de address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
@@ -42573,6 +42629,7 @@
 :do { /ip dns static add name=curiouslyplanning.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=curiousmetal.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=curioussuccess.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
+:do { /ip dns static add name=curjclpfbyand.online address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=curl.springinure.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=curledkexesdenver.qpon address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=curledpastpatty.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
@@ -43007,6 +43064,7 @@
 :do { /ip dns static add name=cwolgn.hamocell.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=cwow.org address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=cwpaib.goboony.co.uk address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
+:do { /ip dns static add name=cwpnsfapies.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=cwqhagwjoppbb.website address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=cwqtqpxudxicq.space address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=cwqxp.sinnersattire.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
@@ -43027,7 +43085,9 @@
 :do { /ip dns static add name=cwyvnvawjstrr.online address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=cx.quadient.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=cx.tbllprem.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
+:do { /ip dns static add name=cx3e73gyelbktw.rest address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=cx6.lastxxxmovies.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
+:do { /ip dns static add name=cxaesbslmacdh.online address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=cxafybp.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=cxagqbtwzwcfm.space address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=cxalid.turtlebeach.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
@@ -43224,6 +43284,7 @@
 :do { /ip dns static add name=cz34qg4fkx6cxlj5zom9.rest address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=czabtzbcciqyn.space address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=czapqaaydakss.online address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
+:do { /ip dns static add name=czardasder.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=czardasshammas.qpon address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=czarishtampans.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=czb1wgqx79lef2c.rest address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
@@ -44531,6 +44592,7 @@
 :do { /ip dns static add name=d2f0ixlrgtk7ff.cloudfront.net address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=d2f0uviei09pxb.cloudfront.net address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=d2f5h9m0jmnhjh.cloudfront.net address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
+:do { /ip dns static add name=d2f9q8zryik75d.cloudfront.net address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=d2fbkzyicji7c4.cloudfront.net address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=d2fbvay81k4ji3.cloudfront.net address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=d2fhjyz3dwdx87.cloudfront.net address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
@@ -51033,6 +51095,7 @@
 :do { /ip dns static add name=datawav.club address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=datawrkz.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=dataxpand.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
+:do { /ip dns static add name=datchaarhat.cfd address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=date-for-more.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=date-il.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=date-till-late.us address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
@@ -51126,6 +51189,7 @@
 :do { /ip dns static add name=daturicrosoli.cfd address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=datvantage.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=daubeswhereerregatta.cfd address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
+:do { /ip dns static add name=daubiercycasinbathala.qpon address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=daubingcyan.qpon address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=daubwhereupon.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=daufv.sher.vc address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
@@ -51138,6 +51202,7 @@
 :do { /ip dns static add name=daughterswap.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=daughtertraining.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=daujvq.cme-kaigojob.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
+:do { /ip dns static add name=daurextacie.qpon address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=dautruongdanhvong.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=dautukiemtien.net address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=dauzaebe.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
@@ -51405,11 +51470,13 @@
 :do { /ip dns static add name=dcfdata.espn.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=dcff90fa75.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=dcfnihzg81pa.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
+:do { /ip dns static add name=dcfxk68sp2.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=dcgbuqiqsxrsv.online address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=dcgej.sleepsophie.com.au address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=dcgfjjawtjxte.website address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=dcgpsjmcytukn.website address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=dcgqz.covercraft.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
+:do { /ip dns static add name=dchmfcewghsll.online address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=dcihja.oviala.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=dciiucnhyyffr.online address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=dcinfos-cache.abtasty.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
@@ -53220,6 +53287,7 @@
 :do { /ip dns static add name=dfizzpfojfgtj.website address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=dfjbhysfylimy.site address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=dfjlgfb4lxka5.cloudfront.net address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
+:do { /ip dns static add name=dfkistiraxclf.site address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=dfkkffjulbnec.space address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=dfljwbpdikejk.online address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=dflow.log.hunantv.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
@@ -53923,6 +53991,7 @@
 :do { /ip dns static add name=diiwgqipveujy.website address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=dijrtichfghgw.site address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=dijuvxuzjhkrb.website address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
+:do { /ip dns static add name=dikastruthful.cfd address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=diken.xyz address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=dikhsb.vividseats.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=dikont.xyz address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
@@ -55447,6 +55516,7 @@
 :do { /ip dns static add name=dorsitan.shop address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=dorsulachiplet.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=dorterlustly.qpon address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
+:do { /ip dns static add name=dorterwites.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=dortmark.net address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=dosagepettytrust.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=dosawes.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
@@ -57384,6 +57454,7 @@
 :do { /ip dns static add name=dwizdq.ekosport.nl address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=dwjlxiuio.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=dwjmmeepcsyut.website address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
+:do { /ip dns static add name=dwjzffrltrzxo.space address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=dwkfdahogaipo.website address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=dwkgpxohcasvp.site address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=dwlladiupirrc.site address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
@@ -57472,6 +57543,7 @@
 :do { /ip dns static add name=dybxezbel1g44.cloudfront.net address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=dycndg.fashion5.de address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=dydab.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
+:do { /ip dns static add name=dydgzmzpdbfqm.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=dyecloud.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=dyeingsbayamo.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=dyerdorpers.qpon address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
@@ -57530,6 +57602,7 @@
 :do { /ip dns static add name=dyqlbpxykvznz.space address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=dyqzjfpmlkwsv.website address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=dyrfxuvraq0fk.cloudfront.net address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
+:do { /ip dns static add name=dyrqtxvwnkxxi.site address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=dysbvu.bodyandfit.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=dysp7.me address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=dysuswbgirzbe.site address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
@@ -57572,6 +57645,7 @@
 :do { /ip dns static add name=dzhjmp.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=dzhst.etmoore.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=dzihsqn.icu address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
+:do { /ip dns static add name=dziorhnav.in address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=dziytaruejcdv.space address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=dzjegcogtzqou.online address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=dzjhok.teufelaudio.at address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
@@ -57979,6 +58053,7 @@
 :do { /ip dns static add name=eagle.roarfilm.com.au address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=eaglewarfareconclusions.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=eagp.hedgy-heckenpflanzen.at address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
+:do { /ip dns static add name=eagpjxclaynjx.site address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=eagqqoapkodhy.online address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=eagreengird.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=eagsur.sobarroso.pt address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
@@ -58394,6 +58469,7 @@
 :do { /ip dns static add name=ebmcdb.hunet.co.kr address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=ebmjaufmqljbw.site address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=eboblack.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
+:do { /ip dns static add name=eboglvqdtadmz.space address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=ebonan.link address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=ebonisegorhenssnottie.cyou address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=ebonitecongrue.cyou address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
@@ -58529,6 +58605,7 @@
 :do { /ip dns static add name=ecclesbacalaoahi.cyou address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=eccmdrazvyrgj.space address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=ecctjf.leroymerlin.com.br address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
+:do { /ip dns static add name=ecdhfydktzlvg.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=ecdn.drtuber.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=ecdn.nuvid.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=ecdn.nuvid.tv address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
@@ -58617,6 +58694,7 @@
 :do { /ip dns static add name=ecqwmhtxjwahw.online address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=ecreify.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=ecrilwzjkwqul.space address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
+:do { /ip dns static add name=ecrsrhqhretbm.site address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=ecrzm.cusocuts.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=ecsac.eu address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=ecstasycluttergnat.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
@@ -59035,6 +59113,7 @@
 :do { /ip dns static add name=eehuzaih.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=eeigvdirpfmob.online address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=eekbhhrgusizj.website address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
+:do { /ip dns static add name=eekcelebrate.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=eekert.dohealth.co address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=eekjdpreeghad.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=eekknightsoon.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
@@ -59097,6 +59176,7 @@
 :do { /ip dns static add name=efbenj.adorebeauty.com.au address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=efbgeebqzeqbs.space address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=efboo.homestratosphere.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
+:do { /ip dns static add name=efclqcsealqvh.online address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=efcmdpfbepeba.site address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=efdac1e1-cloud.perfectgirls.net address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=efdij.clubrideapparel.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
@@ -59320,6 +59400,7 @@
 :do { /ip dns static add name=ehrxthskewjm.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=ehrydnmdoe.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=ehrymwoiidbyr.space address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
+:do { /ip dns static add name=ehrzuogdhrida.website address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=ehsaxkwmtzvlm.space address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=ehsf5afviv.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=ehszycpcxrskg.website address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
@@ -59532,6 +59613,7 @@
 :do { /ip dns static add name=ekcwpdoanxcsl.online address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=ekdtywtkc.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=ekdwpsmeplpvq.space address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
+:do { /ip dns static add name=ekecntqpxyhya.online address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=ekekpmucahnti.site address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=ekezgklfayvyd.space address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=ekfqaxxwnmqdb.website address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
@@ -61290,6 +61372,7 @@
 :do { /ip dns static add name=eobuxpozkrmjm.online address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=eobysuugjotmw.space address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=eocenearmine.cyou address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
+:do { /ip dns static add name=eocenepretangrailer.qpon address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=eocfk.thehappyplanner.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=eochmqcthw.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=eociugytvzhad.website address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
@@ -61414,6 +61497,7 @@
 :do { /ip dns static add name=epidermispushupvariable.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=epidzasjhnzoi.site address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=epigeicclimant.cfd address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
+:do { /ip dns static add name=epigonternal.shop address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=epikporn.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=epilcotoros.qpon address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=epilepsy-brain-mind2014.eu address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
@@ -61594,6 +61678,7 @@
 :do { /ip dns static add name=eqwxjq.costacroisieres.fr address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=eqxygxmutzlep.online address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=eqymqcjqoeaxj.site address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
+:do { /ip dns static add name=eqyphikrkogok.space address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=eqzehklvqlcjl.site address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=eqzoh.eshopygo.ro address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=er.5ykj.cn address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
@@ -61614,6 +61699,7 @@
 :do { /ip dns static add name=erb.tremblant.ca address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=erbhz.havenwellwithin.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=erbqwgtbxifxz.online address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
+:do { /ip dns static add name=ercvzhveiuuln.online address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=erdev-next.eulerian.io address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=erdev1.eulerian.io address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=erdev3.eulerian.io address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
@@ -61996,6 +62082,7 @@
 :do { /ip dns static add name=erromodels.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=error-analytics-production.shopifysvc.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=error-analytics-sessions-production.shopifysvc.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
+:do { /ip dns static add name=error-report.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=error-tracker.pages.dev address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=error-tracking.arvancloud.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=error.pimproll.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
@@ -63919,6 +64006,7 @@
 :do { /ip dns static add name=exjsyuhjwjyzr.space address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=exk.myrobd.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=exkgtbwoereyg.online address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
+:do { /ip dns static add name=exkxijtyjeogh.website address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=exl.io address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=exlogcollector.sooplive.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=exlrwgrhfqakc.site address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
@@ -64758,6 +64846,7 @@
 :do { /ip dns static add name=fakings.club address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=fakings.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=fakings.pornobrasileirinhas.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
+:do { /ip dns static add name=fakirtautsdawcock.cyou address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=fakku.net address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=fal2.carrefour-banque.fr address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=falaka.net address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
@@ -65210,6 +65299,7 @@
 :do { /ip dns static add name=farukkeyshop.thekeyshopbd.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=fascespro.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=fasciaesleave.qpon address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
+:do { /ip dns static add name=fascilideul.cfd address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=fascilisattiejereeds.cyou address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=fascjusltedhecco.qpon address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=fasebook.com.vn address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
@@ -65433,6 +65523,7 @@
 :do { /ip dns static add name=favoriteporn.net address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=favoritepornmovies.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=favoriteptv.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
+:do { /ip dns static add name=favosevergery.cfd address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=favourite74.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=favouritecash.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=favuscymric.cyou address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
@@ -66253,6 +66344,7 @@
 :do { /ip dns static add name=ffjzmuwqcpdsq.online address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=ffkcrs.happy-size.nl address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=ffkk.me address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
+:do { /ip dns static add name=ffkodbsysvriy.online address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=fflbc.hillmangear.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=fflbmjgdjfsgt.site address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=fflvibejrazhp.online address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
@@ -66287,6 +66379,7 @@
 :do { /ip dns static add name=ffuodj.lanebryant.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=ffuonqdlvkdpm.online address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=ffvdkfnqfcbhl.space address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
+:do { /ip dns static add name=ffvkpaejkvttk.online address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=ffwmijupxxcda.online address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=ffxoik.fisaude.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=ffydtfgsiuxxe.online address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
@@ -66294,6 +66387,7 @@
 :do { /ip dns static add name=ffz-garena-membership.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=ffzffn.satra.ru address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=ffzljtcftssxn.space address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
+:do { /ip dns static add name=ffzlvipdtkska.space address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=ffzob.4moms.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=ffzrs.sageandpaije.com.au address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=fg.adultadworld.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
@@ -67378,6 +67472,7 @@
 :do { /ip dns static add name=fireworkswad.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=firex.ubm-events.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=firing.hearthfireclay.org address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
+:do { /ip dns static add name=firkernasion.qpon address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=firkinsexplat.cyou address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=firlotphorid.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=firm-twist.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
@@ -67668,6 +67763,7 @@
 :do { /ip dns static add name=fjwdygativowy.space address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=fjwhpouzlllfh.space address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=fjxadi.maxi-pieces-50.fr address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
+:do { /ip dns static add name=fjypjaujkuwkd.space address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=fk0hwmdoh.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=fk5lv2qyqoclnk.rest address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=fk8k4t55e.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
@@ -67833,6 +67929,7 @@
 :do { /ip dns static add name=flatchestedcoeds.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=flatgirlspics.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=flatjeep.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
+:do { /ip dns static add name=flatpebble.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=flatteensmovies.pro address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=flattermonumentsbarren.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=flavg.drinkfreespirits.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
@@ -68256,6 +68353,7 @@
 :do { /ip dns static add name=fngjuhuiommfv.online address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=fngml.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=fngvepnjonsdl.online address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
+:do { /ip dns static add name=fngvpocnpbvpn.website address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=fngwdl.allheart.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=fnhryddxsfvyv.site address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=fnimszzhutvpo.website address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
@@ -68282,9 +68380,11 @@
 :do { /ip dns static add name=fnrrvyypkcckq.online address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=fns.flavianasser.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=fnsdycspg.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
+:do { /ip dns static add name=fnsuorqgbtkqqt.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=fntkjylnahujh.space address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=fnttu.addictivewellness.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=fnual.brooksbrothers.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
+:do { /ip dns static add name=fnudeewhputcs.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=fnukacgaytmru.online address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=fnvoi.shapermint.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=fnvvtwclgdcqr.online address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
@@ -68419,6 +68519,7 @@
 :do { /ip dns static add name=foodporn.co address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=foodstats.eurofins.de address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=foodvyanjan.in address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
+:do { /ip dns static add name=foojrvqictgwx.website address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=fookgle.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=foolhardy-wall.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=foolhardy76.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
@@ -69045,6 +69146,7 @@
 :do { /ip dns static add name=fpida.yue-japan.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=fpiqxdyxxouwy.space address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=fpivt.dometic.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
+:do { /ip dns static add name=fpiwyyjsdxpph.online address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=fpjgdacsnviyc.site address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=fpjkarweguqyo.online address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=fpjs.io address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
@@ -69148,6 +69250,7 @@
 :do { /ip dns static add name=fqhucslrtysrl.site address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=fqhueanslwpyi.site address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=fqiaizkfzuqgs.online address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
+:do { /ip dns static add name=fqigelecyvfdx.online address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=fqiwqjppxejkk.space address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=fqjgn.etrgovinca.sk address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=fqk6e78c80.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
@@ -69746,6 +69849,7 @@
 :do { /ip dns static add name=freaksofboobs.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=freaksofcock.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=freakydeakygifs.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
+:do { /ip dns static add name=freakywacko.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=freakyza.co.za address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=freckledoutsiderundaunted.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=freckledporn.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
@@ -70880,6 +70984,7 @@
 :do { /ip dns static add name=fseoxnxjrtytt.site address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=fserver.a1solarstore.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=fsfibjccvgkki.site address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
+:do { /ip dns static add name=fsfptzxqdvvnze.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=fsfwbmbtufxny.website address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=fsggey.concierge.diet address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=fsgkzonhuoafn.store address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
@@ -71321,6 +71426,7 @@
 :do { /ip dns static add name=fuidhircutchaliased.cfd address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=fuixbmllpzabg.website address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=fuj.as-waegetechnik.de address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
+:do { /ip dns static add name=fujbgprpchvlp.space address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=fujifilmdb.fujifilmdiosynth.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=fukks.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=fuktxxx.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
@@ -71739,6 +71845,7 @@
 :do { /ip dns static add name=fwlusc.evolutioncycles.co.nz address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=fwmknvveyfahw.site address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=fwnezrrjmbjjl.space address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
+:do { /ip dns static add name=fwoojodpziwfb.website address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=fwpdj.kazoo.com.au address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=fwpff.salesape.ai address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=fwpixel.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
@@ -72134,6 +72241,7 @@
 :do { /ip dns static add name=g6ird1tez2.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=g6nmrcqlx.qvq6kkeobmqunp4etfg.cyou address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=g6x2uvza37.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
+:do { /ip dns static add name=g73r74ryx16lf43fou14bttnqlv7e7g2.rest address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=g7iyz933ov5vtq666qut3yjhrn4hjhej7yy.rest address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=g7yrkmeqnt832l6jyzwtuuu.cfd address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=g86a0qbf1h.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
@@ -72240,6 +72348,7 @@
 :do { /ip dns static add name=gabrcm.membershop.lt address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=gabrio.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=gabuhdrq.www.feelslike.com.br address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
+:do { /ip dns static add name=gacaihhbzgwlk.space address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=gacapig.biennale.org.sa address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=gaccwr.dutramaquinas.com.br address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=gacela.eu address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
@@ -72277,6 +72386,7 @@
 :do { /ip dns static add name=gagateway.stpetecountryfest.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=gageek.terrapizza.com.tr address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=gageeweeble.qpon address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
+:do { /ip dns static add name=gaggigjzganfc.online address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=gaggsshp.frankie.com.br address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=gagici.top address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=gagysn.floward.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
@@ -73310,6 +73420,7 @@
 :do { /ip dns static add name=gbiltuj8w.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=gbizxljbrlhjf.space address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=gbjjoknrxwhwu.space address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
+:do { /ip dns static add name=gbjvzvvvnpfhc.site address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=gbl.radware.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=gblcdn.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=gblock.greenhousedata.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
@@ -73368,6 +73479,7 @@
 :do { /ip dns static add name=gcdsdk.appsflyer.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=gcdsdk.appsflyersdk.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=gceat.theproteinworks.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
+:do { /ip dns static add name=gcedzxjqncgacv.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=gcemyasvrt16.net.mydays.de address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=gcenter.it address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=gceqq.cariuma.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
@@ -73416,6 +73528,7 @@
 :do { /ip dns static add name=gcsbuirgbcrae.website address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=gcsfe.emmausapparel.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=gcsfrljhhhxqk.site address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
+:do { /ip dns static add name=gctlacnehdrth.space address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=gctolasgflhnc.site address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=gctpe.fpro.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=gcudsn.tradetested.co.nz address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
@@ -73733,6 +73846,7 @@
 :do { /ip dns static add name=genuinelyunfit.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=genusesslitted.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=genvideos.org address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
+:do { /ip dns static add name=genxqzngnpvew.space address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=genzsex.today address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=geo.bdg.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=geo.bluedot.io address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
@@ -74257,6 +74371,7 @@
 :do { /ip dns static add name=ggiao.hangtietkiem.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=ggifutcilvsbb.online address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=ggifvakvysycu.site address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
+:do { /ip dns static add name=ggiscozcogsga.online address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=ggiypn.sneltoner.nl address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=ggjav.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=ggjs.d17.cc address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
@@ -75070,6 +75185,7 @@
 :do { /ip dns static add name=gkmek7gl2j9uhb21u2xrkk18.rest address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=gkmjovbmwuldf.site address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=gkmwjxiv.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
+:do { /ip dns static add name=gknnuqpmvgjrh.online address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=gkoggdacnhzrg.site address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=gkopqp.coccodrillo.eu address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=gkpkbsggajdn.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
@@ -75095,6 +75211,7 @@
 :do { /ip dns static add name=gkyaggtewwucj.online address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=gkyjjhlmll.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=gkykp.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
+:do { /ip dns static add name=gkykualpafxny.site address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=gkzbtvtyvvktr.online address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=gl-product-analytics.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=gl.jimahegn.dk address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
@@ -76540,6 +76657,7 @@
 :do { /ip dns static add name=gooescorts.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=goofingopianekayvan.cyou address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=goofingoxetone.cyou address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
+:do { /ip dns static add name=goofjuggvnfcr.online address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=goofsunkid.cyou address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=googie-anaiytics.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=google-ads.hara.vn address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
@@ -76619,6 +76737,7 @@
 :do { /ip dns static add name=gorgeousbeauties.pics address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=gorgeousedge.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=gorgeousscrupulous.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
+:do { /ip dns static add name=goriergobang.cyou address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=gorilandcomic.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=gorilla.celcyon.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=gorilla.hakai.org address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
@@ -76738,6 +76857,7 @@
 :do { /ip dns static add name=gouikrywyxnmo.store address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=goujlizglqlgj.online address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=goulanwattles.cfd address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
+:do { /ip dns static add name=goulashwifock.cyou address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=gounauenjail.cyou address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=gouptc.brtc.co.kr address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=gourmandise.goupil.ai address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
@@ -76872,6 +76992,7 @@
 :do { /ip dns static add name=gqcst.bettybasics.com.au address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=gqdajtjwzbikn.space address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=gqdui.weareplufl.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
+:do { /ip dns static add name=gqfck5gnwf88zjqq6pepmwvfg48.cfd address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=gqfga.senreve.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=gqfoi.roewellness.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=gqgvzbgm.carterbay.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
@@ -77236,6 +77357,7 @@
 :do { /ip dns static add name=gray-csr12.net.abomix.de address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=gray.rw.net.rewe.de address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=gray.unlikebuck.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
+:do { /ip dns static add name=graychalk.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=graycity.net address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=grayoranges.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=grayreceipt.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
@@ -77361,6 +77483,7 @@
 :do { /ip dns static add name=griftretriedagrotis.qpon address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=grigtube.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=griinqddauwbc.website address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
+:do { /ip dns static add name=grilhxufdvunu.website address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=grillcheekunfinished.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=grilledrationally.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=grillwry.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
@@ -77391,6 +77514,7 @@
 :do { /ip dns static add name=gripspigyard.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=grisledchelate.shop address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=grisonryked.qpon address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
+:do { /ip dns static add name=grivoisauncel.qpon address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=griza.homebase.co.uk address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=grjxzyrk.birchevents.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=grkrh.express.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
@@ -83604,6 +83728,7 @@
 :do { /ip dns static add name=guqpe.oceanmosaics.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=gurgleupstandingexist.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=gurglystannid.cyou address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
+:do { /ip dns static add name=gurletvalidly.cyou address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=gurneysphare.cfd address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=guro.booru.org address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=gurrleet.cyou address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
@@ -83768,6 +83893,7 @@
 :do { /ip dns static add name=gwjmfxgdooxdd.website address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=gwjzhhxdj.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=gwlhonuisy.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
+:do { /ip dns static add name=gwlhzzfzmkzxu.online address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=gwlqb.kiauraeyewear.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=gwm.admc-me.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=gwmtracking.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
@@ -83815,6 +83941,7 @@
 :do { /ip dns static add name=gwyltsmdekpgt.space address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=gwynorxqqcqxg.site address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=gwyqupvtyqzy.in address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
+:do { /ip dns static add name=gwyztyahjamn.in address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=gwzpb.liberator.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=gx-target-experiments-frontend-api.gx.nvidia.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=gx0.funfuckmovies.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
@@ -84331,6 +84458,7 @@
 :do { /ip dns static add name=hairyzilla.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=haitacshopgame.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=haiversirkar.cfd address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
+:do { /ip dns static add name=haiwvszcsfrfu.website address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=hajiawakens.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=hajjisblur.cyou address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=hajolxtoruvvps.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
@@ -84505,6 +84633,7 @@
 :do { /ip dns static add name=hanoivip1.vncns.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=hanoivip2.vncns.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=hanoivip4.vncns.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
+:do { /ip dns static add name=hanojdofxaw.in address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=hanqdaysfeucn.site address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=hanseffaces.qpon address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=hanselsgipping.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
@@ -84820,6 +84949,7 @@
 :do { /ip dns static add name=has.syndicate-festival.de address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=has.themusicrepublic.es address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=has.vpro.nl address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
+:do { /ip dns static add name=hasaeblmtcadr.website address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=hasan.bebshapath.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=hasan.cheirobd.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=hasan.poharbd.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
@@ -84865,6 +84995,7 @@
 :do { /ip dns static add name=hats-47b.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=hatsmindsinfatuated.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=hatsudrkfflia.website address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
+:do { /ip dns static add name=hattedraved.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=hattyrhombi.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=hatwhipbesiege.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=hau.hairareus.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
@@ -85338,6 +85469,7 @@
 :do { /ip dns static add name=hdmxutcrtereb.online address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=hdnagl.womensecret.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=hdnakedgirls.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
+:do { /ip dns static add name=hdnespmycyypw.site address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=hdnin.blissy.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=hdnporn.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=hdnse.newtonbaby.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
@@ -86634,6 +86766,7 @@
 :do { /ip dns static add name=hgmiyn.cyfra.eu address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=hgmkewerrzxqu.online address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=hgnngm.kano.me address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
+:do { /ip dns static add name=hgnxbhzxgjnsc.website address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=hgodftnaeacbd.site address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=hgoesd.sportit.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=hgolecgocxwio.space address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
@@ -87191,6 +87324,7 @@
 :do { /ip dns static add name=hjtpbyachgtvu.online address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=hjtzzpfcljcem.site address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=hjuapkyglczhp.site address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
+:do { /ip dns static add name=hjwmppzycegil.space address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=hjws4.parfum-klik.nl address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=hjxajf.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=hjyfhi.misterspex.fi address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
@@ -87260,6 +87394,7 @@
 :do { /ip dns static add name=hlbgo.business-class.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=hlbitfukldzbrk.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=hlbizs.noo.ma address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
+:do { /ip dns static add name=hlbmyjktquias.space address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=hlbtv.cbdistillery.co address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=hlcdhk.jskis.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=hldastrean.shop address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
@@ -87532,6 +87667,7 @@
 :do { /ip dns static add name=hogei.info address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=hoggerupfurl.shop address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=hoggetforfend.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
+:do { /ip dns static add name=hoggiewagtail.cyou address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=hoggincourge.cyou address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=hogginsplateau.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=hogginspodgily.cyou address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
@@ -89217,6 +89353,7 @@
 :do { /ip dns static add name=hswxsatk7x.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=hswzdflhlmtpg.store address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=hsxrsodhgyfvr.space address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
+:do { /ip dns static add name=hsymkfqfhqgfb.online address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=hsynxmsytsxil.site address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=ht-cdn2.contentabc.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=ht.pornhub.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
@@ -89232,6 +89369,7 @@
 :do { /ip dns static add name=htajztellrgmu.space address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=htakr.cos.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=htakwlafjrkhx.space address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
+:do { /ip dns static add name=htaocurkwvwjr.website address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=htaoei.herbchambershondaofseekonk.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=htazjxk.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=htcgcwfh.xyz address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
@@ -90014,12 +90152,14 @@
 :do { /ip dns static add name=hytxg2.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=hyunolgvmtuoo.site address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=hyv8k1bh86.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
+:do { /ip dns static add name=hyvelkfkmzcyp.website address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=hyvirttguqnwt.online address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=hyvmmxgohrnpc.site address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=hywjmh.eriks.be address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=hyxvec.michaelpage.co.jp address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=hyyfarqre.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=hyyllfvitznww.site address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
+:do { /ip dns static add name=hyzurcmizqwvx.website address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=hyzvvg.p-a.jp address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=hz-telemetry.adobe.io address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=hz.gcsewriting.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
@@ -90392,8 +90532,10 @@
 :do { /ip dns static add name=iasianxxx.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=iastrology.net address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=iatoex.kahve.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
+:do { /ip dns static add name=iatserver.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=iaujef.editorasanar.com.br address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=iaukmlastitytyeast.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
+:do { /ip dns static add name=iauvoezvuwefg.online address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=iavatrohnfynh.site address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=iavebq.desart.co.kr address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=iavlxljzdclmz.space address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
@@ -90408,6 +90550,7 @@
 :do { /ip dns static add name=ib.adnxs-simple.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=ib.snssdk.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=ib5s02kbxy.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
+:do { /ip dns static add name=ib9hmq125v.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=iba.feedblitz.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=ibancahevqjjw.website address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=ibankingdigital.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
@@ -90715,6 +90858,7 @@
 :do { /ip dns static add name=icxyqoonmogdn.online address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=icyads.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=icyassimilateparchment.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
+:do { /ip dns static add name=icycsoharmeru.space address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=icyporno.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=icyscokzsxbmd.site address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=icywinter.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
@@ -91049,6 +91193,7 @@
 :do { /ip dns static add name=idlemenchemism.qpon address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=idlestupid.pro address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=idlqzb.puntoscolombia.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
+:do { /ip dns static add name=idlrzofsyqujm.space address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=idmfullcrack.info address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=idmiddnqrgssm.site address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=idndlc.kango-oshigoto.jp address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
@@ -91187,6 +91332,7 @@
 :do { /ip dns static add name=ifap.top address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=ifaqirpgjntoc.site address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=ifb33zuqc.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
+:do { /ip dns static add name=ifbuvtzpalzxe.website address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=ifcartbwtzzwb.online address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=ifcgh.lifestride.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=ifchoupimfwnx.site address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
@@ -91264,6 +91410,7 @@
 :do { /ip dns static add name=igbfwa.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=igc0.destinia.at address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=igcbjsdkueyxv.site address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
+:do { /ip dns static add name=igcqjehxkixpj.website address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=igcvczotebzhr.space address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=igdcv.nydj.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=igdkxrljusxvt.space address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
@@ -91472,6 +91619,7 @@
 :do { /ip dns static add name=iiobbnevhyzdq.website address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=iionads.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=iiqtru.aunworks.jp address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
+:do { /ip dns static add name=iiqurqedmcthf.site address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=iirpzp.novasol.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=iisacombank.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=iisatylcrskde.store address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
@@ -91524,6 +91672,7 @@
 :do { /ip dns static add name=ijfumtjo.cosmoprof.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=ijgtudf.kozii.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=ijhlca.lulus.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
+:do { /ip dns static add name=ijhpqwqvxxvcp.website address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=ijifwb.green-acres.fr address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=ijjlo.raphablends.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=ijjnyauzmqxoq.website address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
@@ -91550,10 +91699,12 @@
 :do { /ip dns static add name=ijucmzrifdaba.online address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=ijumekarzvzpp.online address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=ijuokw.nexths.it address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
+:do { /ip dns static add name=ijvpzsijsvwih.online address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=ijwedylvbjgdx.space address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=ijwwev.mostata.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=ijxptjzn.w8solucoes.host address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=ijyyunqcjscfa.website address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
+:do { /ip dns static add name=ik8f68pffhmbhxc89wg8z.cfd address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=ik8uf01fm7neloo9.edge41.testandtarget.omniture.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=ik928ikvz6841u.b9ff98gtizix1j31vjv7cv6f7.cyou address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=ikahnruntx.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
@@ -91633,6 +91784,7 @@
 :do { /ip dns static add name=ilbceb6d60.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=ilbrh.florencebymillsfashion.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=ilbutylic.qpon address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
+:do { /ip dns static add name=ilcclytcxxuws.online address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=ildr3vij.xyz address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=ileacringes.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=ileef.airforcegear.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
@@ -91828,6 +91980,7 @@
 :do { /ip dns static add name=imagens.workdepot.com.au address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=imagensamadoras.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=imagepost.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
+:do { /ip dns static add name=imageropaque.cyou address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=images-ads.aland.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=images-assets-ht.project1content.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=images-cdn.newbienudes.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
@@ -97213,6 +97366,7 @@
 :do { /ip dns static add name=instatedopa.cfd address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=instawank.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=instaxxx.pro address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
+:do { /ip dns static add name=insteadempty.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=insteadmodification.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=insteephalakic.cyou address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=insticator.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
@@ -98216,6 +98370,7 @@
 :do { /ip dns static add name=ipwfxgwjrlrfa.site address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=ipwyyaiewuzfq.online address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=ipxlwzvtmleub.site address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
+:do { /ip dns static add name=ipxvzjwqpxoiy.website address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=ipyjxs.chowsangsang.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=ipyolmutfxlsv.website address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=ipytsjahiesvm.online address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
@@ -98382,6 +98537,7 @@
 :do { /ip dns static add name=ironistbewit.cyou address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=irpfhsfkfwgon.website address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=irq0ql8or.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
+:do { /ip dns static add name=irqaovfrmdmv.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=irqewz.vilebrequin.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=irqjb.saachistyle.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=irr7idq6i.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
@@ -99265,6 +99421,7 @@
 :do { /ip dns static add name=izgmr.medisave.co.uk address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=izgve.sokolovelaw.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=izhfs.bonowellness.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
+:do { /ip dns static add name=izhpfrxnvucbn.online address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=izhqi.exploreforia.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=izi.arana.ro address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=izi.austinchildrensacademy.org address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
@@ -99301,6 +99458,7 @@
 :do { /ip dns static add name=iztleyodels.shop address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=iztvqaqkrmiom.online address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=izuppdvthgmfo.space address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
+:do { /ip dns static add name=izuvaxbefqbbg.site address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=izvclwnnwbytd.site address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=izvryzfwgldrg.site address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=izwhgqdebwqmq.site address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
@@ -99361,6 +99519,7 @@
 :do { /ip dns static add name=j694fx3bp.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=j6gi9jgjpb.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=j6wi5xn6hvtn7prce82o52f.cfd address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
+:do { /ip dns static add name=j76bzj49x3kiexb.cfd address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=j77x.fwrt695iz5z66vqn84g3tt.cyou address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=j7kuo30qtn.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=j7kv55pr70.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
@@ -100499,6 +100658,7 @@
 :do { /ip dns static add name=jcfocrpceqtwa.site address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=jcgdhqusv.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=jcgklkxkrltcy.store address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
+:do { /ip dns static add name=jcgqxfpckqbxyh.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=jcgscgop.muscle-house.de address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=jcgublqfdoiuhwv.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=jch.truereport.report address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
@@ -100624,6 +100784,7 @@
 :do { /ip dns static add name=jdjkljs.click address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=jdjridlvxwydy.site address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=jdkdzhvgqnecz.online address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
+:do { /ip dns static add name=jdkqovxtynzfd.online address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=jdks7a.sportmeals.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=jdlog.uu.cc address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=jdlpdsliodoee.space address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
@@ -101283,6 +101444,7 @@
 :do { /ip dns static add name=jjvids.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=jjvtts.carelaxmall.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=jjwlgscgtvuvo.space address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
+:do { /ip dns static add name=jjwoingzwrjgc.website address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=jjxcwurdtouaw.online address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=jjxhwow75cehgr7yhe4.cfd address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=jjxipmaerbtdj.online address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
@@ -101293,6 +101455,7 @@
 :do { /ip dns static add name=jk4lmrf2.de address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=jk6wmqcut2.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=jk78a.plnktn.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
+:do { /ip dns static add name=jk8ineoqdj.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=jkach.nurseyard.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=jkajyrkwkovzy.top address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=jkanime.net.iberostar.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
@@ -101418,6 +101581,7 @@
 :do { /ip dns static add name=jlrp6l5xycwtg8ih9m.cfd address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=jltczmewqabda.online address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=jlujxipdixrw.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
+:do { /ip dns static add name=jlulrz094u.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=jluqqr.pechilux.ru address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=jlvffkip.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=jlvhwqtkmttgq.site address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
@@ -101425,6 +101589,7 @@
 :do { /ip dns static add name=jlxlbu.lacoste.pl address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=jlxsgk.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=jly24aw29n5m-a.akamaihd.net address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
+:do { /ip dns static add name=jlytgswydy.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=jlyzg.logees.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=jlzbnl.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=jm.customer-success-apac.adobe.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
@@ -101484,6 +101649,7 @@
 :do { /ip dns static add name=jmvmrv.e-davidwalker.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=jmvoqsusinkfg.site address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=jmvqs.aosom.ca address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
+:do { /ip dns static add name=jmvstmaabdztk.website address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=jmwscbzgcqlaq.space address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=jmxamg.workwearexpress.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=jmxbozcorxrdb.space address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
@@ -102048,6 +102214,7 @@
 :do { /ip dns static add name=jpwcijkiobukr.site address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=jpwfkn.besthotels.es address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=jpwfrl.mona.de address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
+:do { /ip dns static add name=jpwhcyeqaikoz.site address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=jpwwqujvnoskd.site address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=jpwzbglshulfq.space address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=jpxxx.tv address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
@@ -102082,6 +102249,7 @@
 :do { /ip dns static add name=jqguzn.pnxdesign.co.kr address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=jqhxsrqhvztee.site address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=jqioregvpxgte.website address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
+:do { /ip dns static add name=jqjinjmymyfbc.site address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=jqjpdxlywnqam.site address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=jqjvj.makewellness.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=jqk2me2mzf.ru address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
@@ -103087,6 +103255,7 @@
 :do { /ip dns static add name=k2sccporno.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=k2sporn.net address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=k2sporntube.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
+:do { /ip dns static add name=k3eercnxnkin3ri88m7ewuurn98we3pfip878q.rest address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=k3ia7.careforskin.nl address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=k3ia7.doersoflondon.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=k3mv.rakousko.cz address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
@@ -103212,6 +103381,7 @@
 :do { /ip dns static add name=kajsgnjjowudg.space address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=kajyqgfjhohks.website address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=kak.xxx address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
+:do { /ip dns static add name=kakkaksowfoot.cfd address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=kakopis.ru address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=kakuyomu.life address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=kakvk.poponveneers.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
@@ -103277,6 +103447,7 @@
 :do { /ip dns static add name=kanporno.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=kantartns.lt address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=kantotin.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
+:do { /ip dns static add name=kanwarmillerheinies.qpon address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=kaocko.swaglift.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=kaolgxdjrgzqr.space address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=kaolinoleous.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
@@ -103657,6 +103828,7 @@
 :do { /ip dns static add name=kebpln.darngoodyarn.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=kebtul.lamp24.se address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=kechtube.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
+:do { /ip dns static add name=keckingslobdolor.qpon address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=keckstenno.cyou address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=keckypools.qpon address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=keckyreshake.cyou address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
@@ -103798,6 +103970,7 @@
 :do { /ip dns static add name=keskin-pop.vip address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=keskin.vip address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=keskit.site address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
+:do { /ip dns static add name=kessemerodusdictery.qpon address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=kesseolluck.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=ketar.xyz address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=ketban.online address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
@@ -103993,6 +104166,7 @@
 :do { /ip dns static add name=kgtwbxiuepiyv.website address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=kgunmhaiscshm.space address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=kgvhlxcevwbsb.space address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
+:do { /ip dns static add name=kgvuhnihhxiyf.site address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=kgyfqkbocuwhgbx.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=kgynr.charlesclinkard.co.uk address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=kgzfmbpkbydoj.online address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
@@ -104082,6 +104256,7 @@
 :do { /ip dns static add name=khotruyenhay.wordpress.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=khotruyensexy.blogspot.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=khovang.click address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
+:do { /ip dns static add name=khpsfhwwdzly.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=khqwwvhgjoiab.site address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=khrbo.obakki.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=khrkiqbylwyoo.online address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
@@ -104348,6 +104523,7 @@
 :do { /ip dns static add name=kireibox.xyz address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=kirhtq.anicom-sompo.co.jp address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=kirietabawisf.site address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
+:do { /ip dns static add name=kirktonreflate.qpon address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=kirnedsomeday.cfd address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=kirov1.xyz address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=kirraclark.cuteamateurnudes.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
@@ -104422,6 +104598,7 @@
 :do { /ip dns static add name=kitopr.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=kitrigthy.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=kitt.tucsonsentinel.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
+:do { /ip dns static add name=kittedkraft.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=kittentacos.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=kittlelivens.cfd address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=kittletopcoat.cyou address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
@@ -104722,6 +104899,7 @@
 :do { /ip dns static add name=km.w2realestate.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=km.xxmvids.site address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=km7ru2n2jhtfjurotvho91ulyl4gk1121v.cfd address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
+:do { /ip dns static add name=km9ox7hr9wk8mqgvpze4.rest address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=kmaagycbjbnwf.site address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=kmabdhzknqtne.space address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=kmcsqxlrwvxyh.space address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
@@ -105286,6 +105464,7 @@
 :do { /ip dns static add name=kpe18r.b9fcim9nzve9u2j1eyezycce.cyou address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=kpebymehzstjw.website address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=kpedfucu.mellowfellow.fun address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
+:do { /ip dns static add name=kpeirpqmdtumy.site address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=kpemv.lemonadedolls.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=kpesd.bboutique.co address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=kpfbksehrvell.space address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
@@ -105657,6 +105836,7 @@
 :do { /ip dns static add name=ktuvdtioaxwmh.website address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=ktv.bio address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=ktwslsrlunjby.space address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
+:do { /ip dns static add name=ktzggmigkucmy.website address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=ktzrfjxaglbxc.site address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=ktzuoc.bueroshop24.de address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=ku2d3a7pa8mdi.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
@@ -105696,6 +105876,7 @@
 :do { /ip dns static add name=kugqwiarq.in address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=kuheju.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=kuifc.altrx.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
+:do { /ip dns static add name=kujhfycpovlsj.space address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=kujifkvgkygii.site address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=kujsc5.ru address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=kukanmanhua.cyou address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
@@ -105766,6 +105947,7 @@
 :do { /ip dns static add name=kuxibbprpctsb.website address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=kuxxx.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=kuyhaa-me.pw address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
+:do { /ip dns static add name=kuyisrshqybtc.online address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=kuylvcwywrqef.site address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=kuzdhkwwv.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=kuznica-resheniy.ru address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
@@ -105975,6 +106157,7 @@
 :do { /ip dns static add name=kyogwmrsywtnk.site address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=kyompa.luxdeco.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=kyotorituals.shop address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
+:do { /ip dns static add name=kypmhuiguwojm.online address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=kyptefpuxucqc.website address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=kypwvjoni.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=kyra.booru.org address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
@@ -106390,6 +106573,7 @@
 :do { /ip dns static add name=lajedckqssgpa.online address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=lajeshuru.pro address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=lajiewpihlybh.site address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
+:do { /ip dns static add name=lajuqkdrwnhqj.online address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=lajytnrioiaqy.website address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=lajziqeakcuqp.online address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=lakakffa.in address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
@@ -106571,6 +106755,7 @@
 :do { /ip dns static add name=landingtelecentro.mkt.telecentro.com.ar address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=landkarts.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=landlordspy.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
+:do { /ip dns static add name=landmantinaja.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=landofvenus.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=landscaperedressave.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=landscapestoleabbey.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
@@ -106600,6 +106785,7 @@
 :do { /ip dns static add name=lanky-bar.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=lankyteaching.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=lanmxf.icu address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
+:do { /ip dns static add name=lannermontre.qpon address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=lanovice.letsdoeit.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=lanpeatced.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=lansingregush.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
@@ -108068,6 +108254,7 @@
 :do { /ip dns static add name=lfxm6qdn0.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=lfyatgjipbutg.website address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=lfyqsi.erborian.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
+:do { /ip dns static add name=lfyvmfwstlujm.space address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=lfzibowrxoftr.online address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=lfzlb.levasleep.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=lg-release-tracking-8080.gcld-line.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
@@ -108102,6 +108289,7 @@
 :do { /ip dns static add name=lgilo.fitprotection.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=lginnotek.goldenplanet.co.kr address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=lgisc.livom.nl address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
+:do { /ip dns static add name=lgiwmeqp6foehrm5ki7yfe.rest address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=lgiwpeqvbksng.website address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=lgj3xbr4o4eh1nic.rest address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=lgjdmglqloopu.space address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
@@ -108781,6 +108969,7 @@
 :do { /ip dns static add name=liquid.agora.pl address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=liquidateneville.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=liquidfire.mobi address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
+:do { /ip dns static add name=liquidincan.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=liquorssquab.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=liqwid.net address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=liraq.uniqcondominio.com.br address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
@@ -109266,6 +109455,7 @@
 :do { /ip dns static add name=ljjhdgyqjsyr.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=ljjinnxdcknpy.online address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=ljjskttqximu.in address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
+:do { /ip dns static add name=ljkeuetrgzouh.space address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=ljklwagzynotx.website address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=ljline.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=ljmbfywawrrrg.online address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
@@ -109520,6 +109710,7 @@
 :do { /ip dns static add name=lm1.tuliu.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=lm1.wkpcw.cn address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=lm1668.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
+:do { /ip dns static add name=lm1o9ejjs.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=lm4u6e80f.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=lm5.le-monastere.ca address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=lma.npaw.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
@@ -109641,6 +109832,7 @@
 :do { /ip dns static add name=lnme1q1qa.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=lnmm.ru address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=lnntnt.hsastore.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
+:do { /ip dns static add name=lnobniicznwrk.website address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=lnoni.sigoseguros.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=lnoypnlihbck.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=lnpgwvwlouwrd.online address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
@@ -115164,6 +115356,7 @@
 :do { /ip dns static add name=lofi.zentopia.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=lofo3l15c674.platform.replai.io address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=lofsblip.misantoremedio.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
+:do { /ip dns static add name=loftilywhup.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=loftmenturnoff.shop address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=loftyknifeeducate.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=log-ana.h3z.jp address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
@@ -116075,6 +116268,7 @@
 :do { /ip dns static add name=loudporntube.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=louiesnonjuryimpeyan.qpon address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=louisadetinue.shop address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
+:do { /ip dns static add name=louiseselung.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=louisvega.hotlivejasmincams.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=loukpagina.cfd address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=loulouly.net address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
@@ -116196,6 +116390,7 @@
 :do { /ip dns static add name=lowlatencydata.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=lowlifewhateverspotless.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=lownlyarlene.qpon address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
+:do { /ip dns static add name=lownthecia.cfd address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=loworiginatepalette.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=lowrietackled.cyou address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=lowsetupaiidphasers.qpon address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
@@ -116674,6 +116869,7 @@
 :do { /ip dns static add name=lrwprzvusazvh.website address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=lrzgppjhqutnr.space address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=lrziloubgdcfe.online address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
+:do { /ip dns static add name=lrzlpnigfupflg.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=ls.dycdn.net address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=ls.luxeshineprofessional.co.nz address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=ls.srvcs.tumblr.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
@@ -117236,6 +117432,7 @@
 :do { /ip dns static add name=lwdla7fjns.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=lwf.lendwysefinancial.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=lwfdlv.icu address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
+:do { /ip dns static add name=lwfnfwgbkgryv.site address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=lwgadm.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=lwh1.carrefour-banque.fr address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=lwhhscaioywoy.online address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
@@ -117328,6 +117525,7 @@
 :do { /ip dns static add name=lxwp426ao.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=lxwysd.hirmer.de address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=lxyvpfalzuhnx.space address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
+:do { /ip dns static add name=lxyxfyoxpdxlk.space address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=lxzcdi.bellarose.sk address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=lxzduwepfkhiu.site address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=lxztgb.musee-pla.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
@@ -121358,6 +121556,7 @@
 :do { /ip dns static add name=mbsbfchlytjy.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=mbsep.moventashop.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=mbsmmujamqhlf.site address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
+:do { /ip dns static add name=mbsszlqjsinwa.online address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=mbsy.co address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=mbthynqxqpotz.online address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=mbtk-bank.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
@@ -121422,6 +121621,7 @@
 :do { /ip dns static add name=mcgarden.org address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=mcgcasher.shop address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=mcge.cn address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
+:do { /ip dns static add name=mcgnamhzzhxii.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=mcgo2.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=mcgst.homedone.co.uk address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=mcgtrack.herokuapp.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
@@ -122451,6 +122651,7 @@
 :do { /ip dns static add name=megazone.buzz address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=megdexchange.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=megpngcejxazj.website address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
+:do { /ip dns static add name=megrimsinswing.cyou address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=mehadi.cosyneeds.shop address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=meharisxenicus.qpon address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=mehcleverly.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
@@ -122640,6 +122841,7 @@
 :do { /ip dns static add name=memorizeneck.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=memoryidryl.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=memtkh.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
+:do { /ip dns static add name=memtoyfnkqojw.online address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=men-in-pantyhose.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=men-journals.org address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=men-xxx.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
@@ -122707,6 +122909,7 @@
 :do { /ip dns static add name=mephimsex.me address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=mepirtedic.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=meporno.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
+:do { /ip dns static add name=mepuisgsxadha.site address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=mepuyu.xyz address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=mepuzz.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=meqjjl.bubbleroom.dk address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
@@ -122784,6 +122987,7 @@
 :do { /ip dns static add name=mesa.casaantonio.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=mesaviewlodge.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=mesedybbuksindebt.qpon address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
+:do { /ip dns static add name=meselryamiga.cfd address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=meshedunwived.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=meshporn.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=mesiniklan.andipublisher.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
@@ -126048,6 +126252,7 @@
 :do { /ip dns static add name=mhwnlmindermr.space address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=mhydndfvgzvwu.site address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=mhzscs.inthecompanyofdogs.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
+:do { /ip dns static add name=mhzyawls.cfd address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=mi.miliboo.be address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=mi.miliboo.ch address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=mi.miliboo.co.uk address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
@@ -127092,6 +127297,7 @@
 :do { /ip dns static add name=mlclick.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=mlctb.lmr.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=mlcvibxhsegss.online address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
+:do { /ip dns static add name=mlcvxdkhonjjo.site address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=mlcwydddevumu.space address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=mlfolu.nabava.net address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=mlfyllnkqsizp.website address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
@@ -127278,6 +127484,7 @@
 :do { /ip dns static add name=mmvse.incommonbeauty.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=mmwakrrbigmgq.site address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=mmwebhandler.888.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
+:do { /ip dns static add name=mmwftyvjblomo.online address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=mmwlwm.autoscout24.pl address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=mmz3.beinsports.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=mmzanjxhvcgub.online address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
@@ -128220,6 +128427,7 @@
 :do { /ip dns static add name=monhax.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=monicamilf.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=monico.finder.360insights.ai address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
+:do { /ip dns static add name=monifwrtkkqft.space address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=moniquealexander.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=monitis.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=monitor-api.blackcrow.ai address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
@@ -128264,6 +128472,7 @@
 :do { /ip dns static add name=monliveshow.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=monoazotupelos.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=monoecyboxen.shop address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
+:do { /ip dns static add name=monomerenjail.qpon address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=monopoly36.top address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=monorail-edge.shopifysvc.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=monorailnailtributary.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
@@ -128372,6 +128581,7 @@
 :do { /ip dns static add name=mopnnetjyvlul.space address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=mopoga.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=moppetsnandi.cyou address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
+:do { /ip dns static add name=mopsycoaita.cyou address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=mopub-win-us-east.bksn.se address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=mopuscabin.qpon address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=mopvr.theadventurechallenge.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
@@ -130062,6 +130272,7 @@
 :do { /ip dns static add name=mwtwzzeyvnwdx.site address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=mwtyw.mool.fr address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=mwumbd.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
+:do { /ip dns static add name=mwumgrgiryetz.website address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=mwvoyrilp.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=mwvutw.toctocviajes.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=mwww.barelist.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
@@ -131157,6 +131368,7 @@
 :do { /ip dns static add name=nafiz.ghortech.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=nafmxc.1083.fr address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=nafpetty.cfd address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
+:do { /ip dns static add name=nafpwiihgxsuj.website address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=nagaikaslojd.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=naganasturvy.cfd address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=nagar.nagardeal.shop address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
@@ -131887,6 +132099,7 @@
 :do { /ip dns static add name=nauticalhair.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=nauticaloffice.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=nauticalpingelephant.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
+:do { /ip dns static add name=nautilicutheal.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=nauyyaqjihzjz.site address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=navaidaosmic.top address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=navaidseams.cfd address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
@@ -133173,6 +133386,7 @@
 :do { /ip dns static add name=nfvvxg.kaneka-yhc.co.jp address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=nfw.nigarfashionworld.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=nfzetr.shop.bestseller.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
+:do { /ip dns static add name=nfzlqrbklkecs.space address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=nfzpebljbplut.site address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=nfzxcsyycurrk.site address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=ng-source.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
@@ -133786,6 +134000,7 @@
 :do { /ip dns static add name=njunyihalsdvb.site address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=njvhijzcyurto.space address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=njwfbkskrzfmi.space address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
+:do { /ip dns static add name=njwhqtrhbxkya.website address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=njwnwczodnolp.online address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=njxcbzvxmmdgk.website address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=njxrpzdwiduhs.online address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
@@ -133810,6 +134025,7 @@
 :do { /ip dns static add name=nkjykuobtzsgg.store address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=nkkluupoxdlzo.online address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=nkksj.nestedbean.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
+:do { /ip dns static add name=nkkttacbpewwo.website address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=nklmyoknzntio.website address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=nklzj.schoolyardsnacks.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=nkmsfuhdoyjwd.space address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
@@ -133994,6 +134210,7 @@
 :do { /ip dns static add name=nlerkltdcsznn.space address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=nlezowlzrllro.site address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=nlfhlc.careofcarl.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
+:do { /ip dns static add name=nlfthbrebiuoy.online address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=nlglokvwajqxo.site address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=nlgsc.jessicalondon.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=nlgzhd.yoox.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
@@ -134209,6 +134426,7 @@
 :do { /ip dns static add name=nmetrics.samsungmobile.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=nmetrics.virginmoney.com.au address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=nmf.thegoodbroker.co.nz address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
+:do { /ip dns static add name=nmfglawsleujk.space address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=nmfues.1800baskets.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=nmgdxeuophsqo.website address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=nmgneqqnnbtac.site address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
@@ -134278,6 +134496,7 @@
 :do { /ip dns static add name=nneuvn.reruju.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=nnfjh.nuzzle60.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=nngbfvlqkyunr.space address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
+:do { /ip dns static add name=nngcumovmjsme.online address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=nngdtjuftbkzb.website address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=nnhbioy3.fco1u2pjwizef1ygcz3.cyou address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=nnhbqqzpsyoid.online address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
@@ -136149,6 +136368,7 @@
 :do { /ip dns static add name=nyctsnsuuxbsf.website address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=nydahebhskbtz.online address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=nydcwypbglbjb.online address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
+:do { /ip dns static add name=nydxvilekcwyc.site address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=nyetae.eyeclinic-tokyo.jp address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=nyevxusngwyzu.online address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=nyfmjnegeupjxu.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
@@ -136597,6 +136817,7 @@
 :do { /ip dns static add name=obwguczcik.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=obwjugohllr.in address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=obxbpdykkxswe.online address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
+:do { /ip dns static add name=obysbqrqxdgnz.online address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=obytag.kokiskashop.cz address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=obyuhk.mondoaffariweb.it address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=obyxuq.gazzy.com.br address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
@@ -137200,6 +137421,7 @@
 :do { /ip dns static add name=ohjtvcmgfmpwm.website address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=ohkcn.hotelcollectionofficial.se address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=ohkdsplu.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
+:do { /ip dns static add name=ohkfxtcnhzkku.website address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=ohkvvvttjyqsz.space address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=ohl8.j2nt9i6wbey18eyrve3rmm27jx8lkr.cyou address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=ohlanaizn.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
@@ -137285,6 +137507,7 @@
 :do { /ip dns static add name=oiismyzivtine.website address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=oijcphjwiabsg.online address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=oijkse.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
+:do { /ip dns static add name=oijnbvtqfrezf.online address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=oijpml.sastty.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=oikckw.scarosso.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=oikwky.wa-jp.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
@@ -137366,6 +137589,7 @@
 :do { /ip dns static add name=ojiem.fabricmegastore.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=ojigjhkwuqm.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=ojixrv.recordrentacar.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
+:do { /ip dns static add name=ojixvasjuzngy.site address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=ojklhghuj.nordicoil.fi address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=ojlsxt.pigment.co.kr address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=ojm4.palladiumhotelgroup.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
@@ -137399,6 +137623,7 @@
 :do { /ip dns static add name=ojwecrhig.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=ojwkmgtrygxra.space address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=ojxdcxgkozqw.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
+:do { /ip dns static add name=ojxtxmaivsavq.site address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=ojygoysz.soacheck.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=ojyneijlxlekv.site address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=ojzgnfxidbjur.space address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
@@ -137446,6 +137671,7 @@
 :do { /ip dns static add name=okeeblr.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=okeebobbedancre.cyou address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=okegy.yoo7.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
+:do { /ip dns static add name=okflsgmvtpmmy.website address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=okfnce.satscompanion.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=okfreeporn.xxx address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=okgfn.ugg.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
@@ -137699,6 +137925,7 @@
 :do { /ip dns static add name=oljzzc14.xyz address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=olklgn.jh-profishop.de address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=ollapodfloosy.cyou address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
+:do { /ip dns static add name=olliespicula.qpon address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=ollksunixlltx.space address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=ollockporotic.cfd address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=ollporn.club address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
@@ -138807,6 +139034,7 @@
 :do { /ip dns static add name=op97e7c6bu32c26r79t1mrxyp56.cfd address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=opacitycouleur.cyou address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=opacousxanthan.qpon address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
+:do { /ip dns static add name=opalizejupes.cfd address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=opalovani-opaleni.novyinternetovyobchod.cz address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=opalquill.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=opbdps.bonprix.fi address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
@@ -138949,6 +139177,7 @@
 :do { /ip dns static add name=opnbwg.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=opnik.walkfulton.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=opnobbohq.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
+:do { /ip dns static add name=opnodufzrclmth.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=opo4.assuronline.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=opoejchmxlppr.space address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=oporal.booru.org address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
@@ -139402,6 +139631,7 @@
 :do { /ip dns static add name=orsm.net address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=orsmfg.notino.de address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=orsqgxiuhkitm.website address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
+:do { /ip dns static add name=orsvunkydjxsq.site address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=orthronpageful.qpon address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=ortkrq.damyller.com.br address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=orto.brunovargasortopedista.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
@@ -140124,6 +140354,7 @@
 :do { /ip dns static add name=oxrqbdaslqcek.space address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=oxshgkbicsayq.website address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=oxtdaeyiwoxye.space address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
+:do { /ip dns static add name=oxtfutsu.in address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=oxtracking.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=oxtsale1.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=oxtube.cc address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
@@ -140157,6 +140388,7 @@
 :do { /ip dns static add name=oyb2ev9lqn.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=oybodqklhesoc.online address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=oybvbqopbbmpm.space address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
+:do { /ip dns static add name=oycdbvfwxtzxa.website address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=oycqyddwnexya.online address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=oydiwf.yokayseiy.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=oyecilgvdeazh.online address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
@@ -142149,6 +142381,7 @@
 :do { /ip dns static add name=pardnerinlacedcachrys.cyou address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=pardompus.ru address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=pardonfidleys.qpon address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
+:do { /ip dns static add name=pardonsslaking.cfd address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=parenenvine.cfd address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=parentpicture.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=parentsjobquote.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
@@ -142168,6 +142401,7 @@
 :do { /ip dns static add name=parispornmovies.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=paritygauily.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=park.onairparking.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
+:do { /ip dns static add name=parkerwarmful.qpon address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=parkflatdata.apcoa.de address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=parking.godaddy.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=parkingcrew.net address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
@@ -142825,6 +143059,7 @@
 :do { /ip dns static add name=partsroll1.xyz address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=partsroll2.xyz address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=partsroll3.xyz address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
+:do { /ip dns static add name=partwayunicitywhs.cfd address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=party-cams.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=party-vqgdyvoycc.now.sh address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=party.beyond-memories.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
@@ -143333,6 +143568,7 @@
 :do { /ip dns static add name=peacyx.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=peadeplete.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=peafowl.prod.fyi address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
+:do { /ip dns static add name=peafzfaghradr.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=peahn.modlily.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=peairepure.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=peakclick.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
@@ -143689,6 +143925,7 @@
 :do { /ip dns static add name=perfumed-development.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=perfumedsecret.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=perfumedstretch.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
+:do { /ip dns static add name=perhsentinepukeka.qpon address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=perigshfnon.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=perilastronaut.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=perileffects.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
@@ -144069,6 +144306,7 @@
 :do { /ip dns static add name=pgxzsmxxdeuua.space address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=pgyikoxaonfpt.site address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=pgzjhqnndpyyt.site address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
+:do { /ip dns static add name=pgzmbkdavgilh.online address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=pgznc.canadaswonderland.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=ph-pics.phncdn.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=ph-static.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
@@ -144568,6 +144806,7 @@
 :do { /ip dns static add name=phleumspecs.shop address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=phltwhfd.sateno.bg address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=phluant.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
+:do { /ip dns static add name=phmsofzefkfcn.space address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=phmtcfsfjtcpm.space address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=phncc.kunjae.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=phncdn.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
@@ -145078,6 +145317,7 @@
 :do { /ip dns static add name=pik.ad-zahnzentrum-dortmund.de address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=pikbni.zoopers.pl address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=pikemenshriekschaloth.cyou address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
+:do { /ip dns static add name=pikleimbalms.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=pikoj.g2gbar.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=pikpanther.4everypaw.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=pikped.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
@@ -145618,6 +145858,7 @@
 :do { /ip dns static add name=pixxxx.net address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=pixytube.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=piyeaztpdsmaj.space address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
+:do { /ip dns static add name=piyjmdcabrxpo.online address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=pizda.porn address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=pizdak.net address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=pizdarium.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
@@ -146399,6 +146640,7 @@
 :do { /ip dns static add name=ployimmediately.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=plp.linxio.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=plqeavcvdadnr.site address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
+:do { /ip dns static add name=plqfevftpkfsq.site address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=plrigxtg.theperfumespot.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=plrjs.org address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=plrohetmanyfj.space address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
@@ -146584,6 +146826,7 @@
 :do { /ip dns static add name=pmvtube.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=pmvwva.grandeline.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=pmwimjgmkbmbz.space address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
+:do { /ip dns static add name=pmyopuykbtbpn.website address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=pmyvwtugsdqsn.site address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=pmzer.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=pmzfri.fitnessboutique.fr address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
@@ -146792,6 +147035,7 @@
 :do { /ip dns static add name=policeonline.club address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=policies.tinder.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=policycounsel.org address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
+:do { /ip dns static add name=poliosdefused.cyou address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=polish-angels.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=polished-hook.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=polishedcrescent.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
@@ -150804,6 +151048,7 @@
 :do { /ip dns static add name=ppiel.kodakdigitizing.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=ppit.proplugin.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=ppkafjqvlvawu.space address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
+:do { /ip dns static add name=ppkqepbqkfudo.site address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=ppkufuc5vg.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=pplgv.getcleanpeople.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=pplmdnhbexgxf.space address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
@@ -151746,6 +151991,7 @@
 :do { /ip dns static add name=proactivationkey.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=proadscdn.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=proapkcrack.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
+:do { /ip dns static add name=proarmyduskingtaenial.cfd address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=proasianporn.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=proasuresh.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=probabilidades.net address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
@@ -152277,6 +152523,7 @@
 :do { /ip dns static add name=prtracker.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=prtrackings.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=prtsc.livom.de address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
+:do { /ip dns static add name=prtynpbrhpxig.online address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=prudential.distribution.team.prudential.co.uk address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=prudentmope.cyou address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=prudeyuckedaspredo.qpon address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
@@ -152829,6 +153076,7 @@
 :do { /ip dns static add name=puffin.nex4.net address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=puffinsgushing.cyou address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=puffnetwork.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
+:do { /ip dns static add name=puffyearless.qpon address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=puffyloss.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=puffynetwork.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=puffypaste.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
@@ -153004,6 +153252,7 @@
 :do { /ip dns static add name=puma.islingtonmecc.org.uk address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=pumaqmqix.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=pumaswede.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
+:do { /ip dns static add name=pumavobis.cyou address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=pumhpxdttyblz.site address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=pumlmb.netcologne.de address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=pump-cdn.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
@@ -153463,6 +153712,7 @@
 :do { /ip dns static add name=pvvkigebunabd.site address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=pvvstream.pro address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=pvwfz.tonimay.com.au address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
+:do { /ip dns static add name=pvwranjflcsmj.online address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=pvzesryoifiit.online address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=pw.gigazine.net address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=pwa.oohcams.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
@@ -153616,6 +153866,7 @@
 :do { /ip dns static add name=pxxhcronxqhru.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=pyallaflopssquids.cyou address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=pyasnafgpytqf.site address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
+:do { /ip dns static add name=pyasupstealwoofers.qpon address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=pybllmfpsdpki.website address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=pybmulveaz.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=pybqfjmdztcyn.site address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
@@ -153903,6 +154154,7 @@
 :do { /ip dns static add name=qbkzoovlstqom.website address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=qbl4.ecetech.fr address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=qblfoindoxcga.space address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
+:do { /ip dns static add name=qblgavrzpsuvu.website address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=qblkeu.vamvelosiped.ru address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=qblllqzkaqewv.top address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=qbltvdeqmrzxt.website address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
@@ -153949,6 +154201,7 @@
 :do { /ip dns static add name=qcdch.saltlaboratory.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=qcdhhtdtvxr.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=qceitjzynzcpj.space address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
+:do { /ip dns static add name=qcemfvk47mhl4h5y94bxui.rest address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=qcgdmncatgybd.site address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=qcgt.qciano.com.br address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=qcgtoz.cwjobs.co.uk address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
@@ -154180,6 +154433,7 @@
 :do { /ip dns static add name=qfvwfi.convenii.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=qfwfbo.decofurnsa.co.za address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=qfxheyyfxnply.site address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
+:do { /ip dns static add name=qfxqmbwvrywfu.website address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=qfxwqa.lens-smile.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=qfzsogrsoxiue.site address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=qfzuwd.alexandnova.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
@@ -154513,6 +154767,7 @@
 :do { /ip dns static add name=qlvobmtnqrocw.online address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=qlwzyqlwowzpu.online address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=qlyvinhfifdwv.site address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
+:do { /ip dns static add name=qm26htyni5ytyutyxjz6oj63j3y.cfd address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=qmaetxaxtapqa.online address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=qmaixqtbcbapj.site address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=qmaknhduynyfz.space address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
@@ -154549,6 +154804,7 @@
 :do { /ip dns static add name=qmj89db55u.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=qmjgalvrybilh.online address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=qmkct.blessedbemagick.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
+:do { /ip dns static add name=qmkdxbbsiaait.space address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=qmlewpemuxxjh.online address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=qmlrmaroklzvo.top address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=qmlzcm.petshop.ru address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
@@ -154826,6 +155082,7 @@
 :do { /ip dns static add name=qqwyihwm.thjen.tech address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=qqxovh.bosod.co.kr address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=qqyydb.shopatshowcase.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
+:do { /ip dns static add name=qqzarzuheqxin.online address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=qqznesheignkm.site address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=qr-non-member-unsubscribe-landing-page.qr.test.ajo.adobe.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=qr-player-new.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
@@ -155233,6 +155490,7 @@
 :do { /ip dns static add name=queenskart.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=queensmission.shop address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=queerdiary.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
+:do { /ip dns static add name=queererpawns.qpon address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=queermenow.net address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=queerpig.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=queerpixels.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
@@ -155830,12 +156088,14 @@
 :do { /ip dns static add name=r7pnnukr.xyz address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=r7zc.scrollingbee.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=r8bz.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
+:do { /ip dns static add name=r8ftxuvgvz6vphphhn.rest address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=r8l.c6z68f48gklgru273uqh6owi42qpv9ijxkb.cyou address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=r8ln4v4nef.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=r8m5843c9nx5ynm.cfd address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=r932o.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=r96h7g97rik8eq8ow.cfd address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=r973.timesheraldonline.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
+:do { /ip dns static add name=r9bq56pjzgq7oql1ofkp8owtl.cfd address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=r9efr.pf95ewyr24qqtgx2zn1r67n8u7hju5l44.cyou address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=r9ljguu1k4.ru address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=r9x.in address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
@@ -156378,6 +156638,7 @@
 :do { /ip dns static add name=rbcdn.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=rbcdp.charleskeith.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=rbdata.boostymark.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
+:do { /ip dns static add name=rbdfwuffoodto.online address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=rbdvwhcizpzoz.space address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=rbdwa.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=rbejf.anotherslegacy.dk address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
@@ -156849,6 +157110,7 @@
 :do { /ip dns static add name=reanvilpates.qpon address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=reaonq.xn--hdks770u8f0a8dvzft.net address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=reappieridpuggish.cfd address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
+:do { /ip dns static add name=reaqtsfbbtzyz.online address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=reariimime.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=rearrangecomecosy.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=rearrangesubsequentlyloosen.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
@@ -157469,6 +157731,7 @@
 :do { /ip dns static add name=refersion.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=referwhen.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=reffedseck.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
+:do { /ip dns static add name=reffingswelp.qpon address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=refgpfaxreuky.site address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=refiledplanned.cfd address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=refilmsbones.top address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
@@ -158594,6 +158857,7 @@
 :do { /ip dns static add name=reydrj.papilot.pl address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=reyiwapissffq.space address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=reymvmqjaaljw.top address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
+:do { /ip dns static add name=reyqzwgcxdcdh.website address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=reyzol.jdsports.dk address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=rezhiv.ru address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=rezrboaazmoov.top address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
@@ -158677,6 +158941,7 @@
 :do { /ip dns static add name=rfsquk.medicaresavingslab.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=rfss.russellfinex.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=rfssm.iliabeauty.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
+:do { /ip dns static add name=rftlseazrjgue.site address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=rftp.sugaredandbronzed.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=rftxmwcivenzn.space address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=rfugjeqobps.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
@@ -158760,6 +159025,7 @@
 :do { /ip dns static add name=rgtm.shiaqgaessentials.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=rgubhknmmseuy.space address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=rgubidzwowcpf.space address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
+:do { /ip dns static add name=rguecruzvxwyf.website address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=rguki.headbangersports.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=rgvxfkrhnovqp.store address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=rgwhbjbbfwitt.site address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
@@ -158821,6 +159087,7 @@
 :do { /ip dns static add name=rhiummplusjaw.online address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=rhjeinrntpaqi.site address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=rhjuemstwodrh.space address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
+:do { /ip dns static add name=rhknvgdlhaycq.website address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=rhksxx.nencinisport.it address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=rhl8r3dkc.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=rhlctb.jjkeller.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
@@ -158953,6 +159220,7 @@
 :do { /ip dns static add name=rieixcwzvslxl.space address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=rieverscucujus.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=rifat.luxonmen.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
+:do { /ip dns static add name=riffedsubpart.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=rifflingo.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=rifma.circusny.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=riftgrumbly.cfd address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
@@ -159587,6 +159855,7 @@
 :do { /ip dns static add name=roibvvvvfmhyl.space address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=roiccwhoodrkb.space address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=roikingdom.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
+:do { /ip dns static add name=roildauted.qpon address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=roilierservet.qpon address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=roinjg.mkluzkoviny.cz address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=roirocket.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
@@ -161257,6 +161526,7 @@
 :do { /ip dns static add name=rubierchefdom.shop address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=rubiescalid.cfd address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=rubigodirdum.cfd address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
+:do { /ip dns static add name=rubiousreacher.cyou address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=rubird.ru address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=rubmaps.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=rubolite.ems-dental.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
@@ -161307,6 +161577,7 @@
 :do { /ip dns static add name=rugalnylon.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=rugayporn.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=rugayporno.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
+:do { /ip dns static add name=rugbiesfoliagejerker.qpon address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=rugbycaricaturescheme.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=rugbymentalads.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=rugcookingintersection.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
@@ -161808,6 +162079,7 @@
 :do { /ip dns static add name=rx1iwebx2.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=rxanqdkkmskmw.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=rxayc.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
+:do { /ip dns static add name=rxb4kvggbtqrbt1kz236.cfd address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=rxbctukdsacky.site address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=rxbmckvoxesqa.online address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=rxdevfrance.reedexpo.fr address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
@@ -163669,6 +163941,7 @@
 :do { /ip dns static add name=salesmanrespectivedenunciation.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=salestape.pluginboutique.store address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=salesvomited.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
+:do { /ip dns static add name=salicgirdearlier.cfd address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=salicyldefames.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=salientalmuce.shop address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=salinanbunga.cyou address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
@@ -164048,6 +164321,7 @@
 :do { /ip dns static add name=sandra-woow.a4ktube.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=sandracismaboveaverage.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=sandralatina.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
+:do { /ip dns static add name=sandralift.cyou address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=sandrasilvers.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=sandstrophies.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=sanduon.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
@@ -164208,6 +164482,7 @@
 :do { /ip dns static add name=sargonould.cyou address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=sarlakestamp.qpon address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=sarodsleechy.cfd address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
+:do { /ip dns static add name=sarongand.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=sarov.ws address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=sarrowgrivois.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=sarsaroctanekarsha.qpon address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
@@ -165156,6 +165431,7 @@
 :do { /ip dns static add name=sdhhhqcqewyvb.site address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=sdhnz.qualialife.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=sdiwrndcoyrdq.site address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
+:do { /ip dns static add name=sdjmtziuarexc.online address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=sdjof.nadinemerabi.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=sdjthl.tvguide.dk address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=sdk-api-v1.singular.net address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
@@ -165206,6 +165482,7 @@
 :do { /ip dns static add name=sdo8357.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=sdoga.frenchgirlorganics.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=sdome.underarmour.co.jp address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
+:do { /ip dns static add name=sdomxqcaeuadm.site address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=sdpimt.lostgolfballs.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=sdpvirkxndxwc.online address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=sdpymnujiurkj.website address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
@@ -165233,6 +165510,7 @@
 :do { /ip dns static add name=sdvwvbayyhvzp.website address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=sdwpxddk.musclehouse.be address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=sdxkukveddwbi.site address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
+:do { /ip dns static add name=sdxupnpmfqdoj.website address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=sdyhzmahyvxzm.online address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=sdzgro.hugmedarling.kr address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=sdzpwraktbkcf.website address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
@@ -165351,6 +165629,7 @@
 :do { /ip dns static add name=searchsexblogs.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=searchsexvideo.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=searchtds.ru address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
+:do { /ip dns static add name=searchthworl.cyou address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=searchubxxx.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=searchusques.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=searchwebcams.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
@@ -165904,6 +166183,7 @@
 :do { /ip dns static add name=sekasi.org address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=sekereepeeist.cyou address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=sekeszmamoyu.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
+:do { /ip dns static add name=sekhcrrtlxom.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=sekindo.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=seks-3.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=seks-besplatno.org address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
@@ -175211,6 +175491,7 @@
 :do { /ip dns static add name=shcnohorrazqn.store address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=she-want-fuck.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=she66.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
+:do { /ip dns static add name=sheafsdeck.cyou address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=shealapish.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=shealth-analytics-api.samsunghealth.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=sheamateur.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
@@ -175465,6 +175746,7 @@
 :do { /ip dns static add name=shikarirevent.qpon address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=shikkentutulus.qpon address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=shiksalogions.cfd address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
+:do { /ip dns static add name=shilfapalamaenaoto.qpon address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=shili.downxia.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=shili.wanyx.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=shilian168.cn address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
@@ -176518,6 +176800,7 @@
 :do { /ip dns static add name=signup.vovici.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=signup.youngcourtesans.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=sihca.elevenaustralia.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
+:do { /ip dns static add name=sihivauxuyowp.website address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=sihoqd.sheridan.com.au address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=sihteeriopisto.co address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=siivqn.bricoman.it address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
@@ -176718,6 +177001,7 @@
 :do { /ip dns static add name=sinckuxlsucmq.online address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=sindeejennings.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=sindmagneto.cyou address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
+:do { /ip dns static add name=sindocunfancy.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=sindtex.shop address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=sinebryuga.link address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=sinehut.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
@@ -177184,6 +177468,7 @@
 :do { /ip dns static add name=skeennobsapr.cfd address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=skeesstrife.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=skeetads.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
+:do { /ip dns static add name=skeeterdecd.cfd address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=skeggerlaky.qpon address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=skeifnoxial.qpon address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=skeletalstreet.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
@@ -177354,6 +177639,7 @@
 :do { /ip dns static add name=skyporns.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=skyprivate.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=skypromotion.ru address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
+:do { /ip dns static add name=skyrepookaun.cfd address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=skyrim-porn.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=skyscrapertowel.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=skyscrpr.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
@@ -177397,6 +177683,7 @@
 :do { /ip dns static add name=slackpod.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=sladko.tv address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=slahpxqb6wto.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
+:do { /ip dns static add name=slajoioyhw.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=slakinskewly.qpon address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=slamactress.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=slanderchristian.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
@@ -182290,6 +182577,7 @@
 :do { /ip dns static add name=smifzyuottaxc.website address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=smigid.ru address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=smigro.info address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
+:do { /ip dns static add name=smilaxpinnersgraying.cfd address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=smile.optilaboratories.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=smileporno.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=smilerbefoam.qpon address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
@@ -182669,6 +182957,7 @@
 :do { /ip dns static add name=sneakyasses.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=sneakyindianporn.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=sneakystew.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
+:do { /ip dns static add name=sneddedlately.cfd address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=sneerpiperlystarve.cyou address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=sneezecovers.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=sneezedeplorebackache.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
@@ -184653,6 +184942,7 @@
 :do { /ip dns static add name=sqcrlgnhawivg.website address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=sqcsqklkj.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=sqd.churchmediasquad.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
+:do { /ip dns static add name=sqdcjxnettpgz.space address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=sqdgwx.jobrapido.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=sqdljj.kijiji.ca address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=sqdlqatsnnjoe.website address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
@@ -184725,6 +185015,7 @@
 :do { /ip dns static add name=squirkverraykorunas.cyou address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=squirmosmosestatar.qpon address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=squirmrobbers.shop address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
+:do { /ip dns static add name=squirmsalms.cfd address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=squirrel.laravel-mix.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=squirrels.getsquirrel.co address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=squirt.org address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
@@ -184779,6 +185070,7 @@
 :do { /ip dns static add name=sraoyuvchtdja.site address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=srb-communique.srb-es.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=srbam.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
+:do { /ip dns static add name=srbtluibwkhqy.site address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=srbvjsnwkctno.site address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=src.apotheek365.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=src.apotheke365.de address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
@@ -188639,6 +188931,7 @@
 :do { /ip dns static add name=ssga.maydan.ma address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=ssga.shatteredshores.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=ssga4gads.veryspecialgames.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
+:do { /ip dns static add name=ssgajmllqgnch.space address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=ssgamf.stories.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=ssgan.tera.ma address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=ssgfvaiormcuz.online address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
@@ -201832,6 +202125,7 @@
 :do { /ip dns static add name=stylish-knife.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=stylishbuds.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=styllimacupa.shop address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
+:do { /ip dns static add name=styriantung.cfd address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=styvjlsjnubwt.space address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=su.azeriporno.sbs address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=su.azeriseks.top address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
@@ -202399,6 +202693,7 @@
 :do { /ip dns static add name=sunnilygaiting.cfd address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=sunnivafigge.niceboobs.club address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=sunnshele.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
+:do { /ip dns static add name=sunnwereass.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=sunny-measurement.pro address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=sunny-source.pro address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=sunny-thumbs.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
@@ -202441,6 +202736,7 @@
 :do { /ip dns static add name=sunstrokeeastcookie.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=suntanfiscs.cyou address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=suntcontent.se address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
+:do { /ip dns static add name=suntrappliersshifty.cfd address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=suntrustoverdraftclassaction.e.epiqnotification.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=sunuabuahgfsd.space address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=sunwaysseminaogles.cfd address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
@@ -203801,6 +204097,7 @@
 :do { /ip dns static add name=syyynjvgdbmtj.online address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=syzygaletchers.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=szakms.bygghemma.se address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
+:do { /ip dns static add name=szatemxctwmgl.site address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=szben.ba-sh.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=szblepeqqktbp.online address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=szbnb3wmaj.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
@@ -207271,6 +207568,7 @@
 :do { /ip dns static add name=techsupport.balluff.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=tecoheat-ss.wellheater.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=tecsst.fascedacapitano.it address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
+:do { /ip dns static add name=tectrixsnavvle.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=teczbq.amicashop.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=teczoonbdxxug.site address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=ted.dailymail.co.uk address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
@@ -208461,6 +208759,7 @@
 :do { /ip dns static add name=tezeoddo.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=tezfiles.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=tezryhekh.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
+:do { /ip dns static add name=tezyrlhucolnv.website address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=tf.360.cn address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=tf.jucydate.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=tf1xu32n.xyz address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
@@ -208491,6 +208790,7 @@
 :do { /ip dns static add name=tfkgt.mzmautowerks.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=tfkic.worldmarket.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=tfla.xyz address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
+:do { /ip dns static add name=tfldwmstgsyll.space address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=tflerpqk.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=tflrggrhfbepr.site address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=tflurbzcqgpii.website address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
@@ -208799,6 +209099,7 @@
 :do { /ip dns static add name=thanksgivingdelights.name address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=thanosofcos5.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=thaqyl.mediamarkt.nl address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
+:do { /ip dns static add name=thasiandowl.qpon address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=thasianhyenine.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=thasiankelkcunan.cyou address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=thassos.clicknplay.to address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
@@ -209513,6 +209814,7 @@
 :do { /ip dns static add name=threshold.provokedmagazine.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=thresholdaccommodate.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=thresholdskill.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
+:do { /ip dns static add name=thrifttaring.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=thriftyguru.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=thrillasoft.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=thrillsiridian.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
@@ -209535,6 +209837,7 @@
 :do { /ip dns static add name=throbcrunchsurely.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=throbexhaust.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=throneporn.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
+:do { /ip dns static add name=thronesisiac.cyou address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=throngbuildingunborn.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=thronosgeneura.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=throughalivemedication.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
@@ -210725,6 +211028,7 @@
 :do { /ip dns static add name=tkpopup.asia address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=tkpopup.vn address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=tkportal.aotter.net address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
+:do { /ip dns static add name=tkppdotllqddl.website address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=tkppvr.freshfarm.it address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=tkr.codigovencedor.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=tkrbwfkbb.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
@@ -211664,6 +211968,7 @@
 :do { /ip dns static add name=topcam.club address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=topcambabes.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=topcamslist.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
+:do { /ip dns static add name=topcaststepwaycahiz.qpon address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=topcelebrityfakes.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=topchats.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=topchineseporn.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
@@ -212086,6 +212391,7 @@
 :do { /ip dns static add name=tousatu-douga-youpeeber.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=touselashcans.qpon address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=tousesrevs.cfd address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
+:do { /ip dns static add name=tousingazotous.qpon address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=tousleoutbid.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=touzleclasses.cyou address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=tovcvffyffqgkk.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
@@ -212095,6 +212401,7 @@
 :do { /ip dns static add name=towardconnectionsbat.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=toweleyewitnessrubbing.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=toweringanswer.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
+:do { /ip dns static add name=towerpubic.cyou address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=towersflimsy.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=towheaddeepthroat.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=towheerising.cyou address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
@@ -217374,6 +217681,7 @@
 :do { /ip dns static add name=tritebadge.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=tritethunder.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=tritetongue.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
+:do { /ip dns static add name=tritezdwurxer.site address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=tritoloembrawn.cyou address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=triton.companyegg.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=triton.cutterstick.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
@@ -219502,6 +219810,7 @@
 :do { /ip dns static add name=turn.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=turncapkevin.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=turncdn.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
+:do { /ip dns static add name=turneracypris.cfd address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=turnerforbes.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=turnhub.net address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=turnipprivatenatives.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
@@ -219638,6 +219947,7 @@
 :do { /ip dns static add name=tvojepecko.cz address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=tvp.tv address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=tvpgs.palmgolfco.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
+:do { /ip dns static add name=tvpielzeiwvyl.online address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=tvpixel.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=tvporn.cc address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=tvporn.net address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
@@ -220551,6 +220861,7 @@
 :do { /ip dns static add name=ucmggs.optimaleoptique.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=ucmiax.laconicum.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=ucnjt.guessfactory.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
+:do { /ip dns static add name=ucnovextjoeym.site address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=ucnwhhtaadaqp.site address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=ucosi.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=ucounter.ucoz.net address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
@@ -220597,6 +220908,7 @@
 :do { /ip dns static add name=udcazzuy.k9at.co.uk address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=udcfewmnyqliqu.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=udcthrbuypzbe.site address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
+:do { /ip dns static add name=udcuyvlyoqykt.site address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=udd1i5.zhihu.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=udderedcuorin.cyou address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=udderedhurrerreweave.qpon address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
@@ -220688,6 +221000,7 @@
 :do { /ip dns static add name=uektb.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=uektouluarthe.site address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=uel.nutriraq.com.br address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
+:do { /ip dns static add name=uelacdntbosei.site address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=uelcs.officialhodgetwins.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=ueleensadcyxh.site address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=ueleu.pacersteamstore.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
@@ -221586,6 +221899,7 @@
 :do { /ip dns static add name=undgb.fashionnova.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=undguhukzjjpe.site address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=undhertouchingth.org address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
+:do { /ip dns static add name=undidembargo.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=undimangen.cfd address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=undm.qibulo.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=undocksweirdie.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
@@ -221660,6 +221974,7 @@
 :do { /ip dns static add name=unhappyparuriaduffing.cyou address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=unhappypetunevesicle.qpon address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=unhappyweakness.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
+:do { /ip dns static add name=unhaspquartin.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=unhastyshote.shop address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=unhatedprotei.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=unhealthyirreparable.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
@@ -222011,6 +222326,7 @@
 :do { /ip dns static add name=unwritmirific.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=unwrittenfront.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=unwrittenheight.pro address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
+:do { /ip dns static add name=unxvbclfpnkow.online address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=unynuatetmujq.space address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=unyzea.aboutyou.sk address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=unzensierte-pornobilder.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
@@ -222097,6 +222413,7 @@
 :do { /ip dns static add name=upbeatnature.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=upbidmeliorambage.cyou address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=upbidshamer.cfd address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
+:do { /ip dns static add name=upbifctjrpnxg.website address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=upbindsswythe.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=upblastchaosornare.cyou address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=upborealias.cyou address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
@@ -222735,6 +223052,7 @@
 :do { /ip dns static add name=utchwarper.qpon address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=utdmvlibauwup.online address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=ute.booru.org address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
+:do { /ip dns static add name=utfsehrokaczt.site address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=utgbe.pewox.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=utgckq.reductionrevolution.com.au address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=utgpsiesiotbx.website address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
@@ -223522,6 +223840,7 @@
 :do { /ip dns static add name=uxeuktpbypkxz.space address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=uxevhnhwanwgg.site address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=uxfe.cn address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
+:do { /ip dns static add name=uxfllvcsevrdi.space address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=uxfvatxoqvrpf.space address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=uxgfrmvk.sosudanmark.dk address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=uxgipzzehpttp.online address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
@@ -223962,6 +224281,7 @@
 :do { /ip dns static add name=valentinosverige.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=valeriagallant.nastyjasmin.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=valeriasam.lindamodel-exposed.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
+:do { /ip dns static add name=valeriascarts.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=valeriehoc.shop address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=valerielubo.webcamadultporn.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=valeriemillett.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
@@ -224590,6 +224910,7 @@
 :do { /ip dns static add name=vcs.zijieapi.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=vcsc1fp2f.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=vcslotoplay.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
+:do { /ip dns static add name=vcsobvsytynrv.online address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=vcsphxpnlxnrm.online address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=vcteens.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=vctzdx.mundoalfombra.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
@@ -224779,6 +225100,7 @@
 :do { /ip dns static add name=velky-prsa.cz address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=velocecdn.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=velocity30.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
+:do { /ip dns static add name=velocity83.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=velocitycdn.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=velourafashions.shamshedhaider.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=velouteentonic.cfd address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
@@ -225206,6 +225528,7 @@
 :do { /ip dns static add name=vhk1icmps.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=vhltqzhcuoobq.website address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=vhluj.andar.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
+:do { /ip dns static add name=vhmaxnklcxmng.site address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=vhmbutxqgdsty.online address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=vhmewg.edreams.fr address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=vhmjci.edreams.co.uk address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
@@ -226734,6 +227057,7 @@
 :do { /ip dns static add name=violinatippets.cfd address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=violinawavetanoan.cyou address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=violoncello21.top address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
+:do { /ip dns static add name=violtantlevroom.cfd address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=viosdojjklsuq.site address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=vioturallis.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=viovtyhydslzg.online address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
@@ -228376,6 +228700,7 @@
 :do { /ip dns static add name=vqotgo.knittingroom.no address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=vqporn.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=vqpque.eloan.co.jp address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
+:do { /ip dns static add name=vqptdkcridstf.website address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=vqqaelqorzrjq.top address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=vqqaelqorzzry.top address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=vqqazgjuudnsi.space address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
@@ -228396,6 +228721,7 @@
 :do { /ip dns static add name=vqvuid.kobetsu.co.jp address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=vqwvlp.onlinekoupelny.cz address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=vqxdpcwnxyc.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
+:do { /ip dns static add name=vqxeiptrvjred.site address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=vqxlbd.billyreid.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=vqxppnlrcbxlh.site address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=vqydtwutfyafq.space address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
@@ -229468,6 +229794,7 @@
 :do { /ip dns static add name=wagershare.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=waggelvittled.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=waggersmiterkhanate.cyou address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
+:do { /ip dns static add name=waggleddedan.cyou address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=waggonacideryonder.cfd address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=waggonerchildrensurly.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=waggonerprepay.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
@@ -232100,6 +232427,7 @@
 :do { /ip dns static add name=wiledatomity.qpon address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=wilefullagunas.qpon address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=wilfulshambu.qpon address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
+:do { /ip dns static add name=wilfulshikarskerch.cyou address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=wilhelmupwafts.cfd address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=will-privat-ficken.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=willalland.info address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
@@ -232403,6 +232731,7 @@
 :do { /ip dns static add name=wkkfypqwrmgud.online address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=wkkug.vcbnw.de address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=wklmyjveuvlyf.online address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
+:do { /ip dns static add name=wklwcvliqudxd.website address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=wklwyt.springer.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=wkmgb.skatie.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=wkmorvzbkqjvw.top address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
@@ -232793,6 +233122,7 @@
 :do { /ip dns static add name=woosyt.portalesardegna.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=wootmedia.net address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=wootscratch.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
+:do { /ip dns static add name=wootwhenonly.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=woowjy.desa.com.tr address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=wooyeoh.angelfire.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=woozie.shop.liberatingwood.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
@@ -233041,6 +233371,7 @@
 :do { /ip dns static add name=wphwblykxoiia.online address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=wphyikyyjobov.site address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=wpiadbxpy.in address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
+:do { /ip dns static add name=wpjfcbhennmsy.website address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=wpjjupwjgasynlr.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=wpjplnykjopdp.online address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=wpjugqasgblow.space address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
@@ -233086,6 +233417,7 @@
 :do { /ip dns static add name=wqbghtlchfeir.online address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=wqbuwbiuowblc.store address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=wqcbmrvlvrmwb.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
+:do { /ip dns static add name=wqdqncctnngxy.space address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=wqeetbilgvsys.website address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=wqefjlpihnnqy.site address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=wqeyrbuufaqri.online address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
@@ -233112,6 +233444,7 @@
 :do { /ip dns static add name=wqpgjenwxsbyd.space address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=wqpkffkrcnqyw.online address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=wqqjkyljktbb.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
+:do { /ip dns static add name=wqrebmjfbphwk.website address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=wqrkuukxyoi.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=wqs4.destinia.pt address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=wqtfijyhoppfk.website address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
@@ -233149,6 +233482,7 @@
 :do { /ip dns static add name=wrathybabroot.cfd address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=wrathyblesmol.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=wrating.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
+:do { /ip dns static add name=wravogram.cfd address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=wravorzt.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=wrc.shinhancard.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=wrcbaiyrpmsza.website address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
@@ -233362,12 +233696,14 @@
 :do { /ip dns static add name=wtmxfcptueyoz.store address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=wtmxhu.lafuma.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=wtoredir.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
+:do { /ip dns static add name=wtotdvbqpyzrv.site address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=wtoujbtnafmds.online address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=wtp101.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=wtpaaxtlhxedo.space address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=wtqptl.taksimpazar.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=wtr-digital-analytics.ew.r.appspot.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=wtraff.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
+:do { /ip dns static add name=wtrbrchrbymlo.website address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=wtreqnine.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=wtrevvit.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=wtrmuqghtxloz.website address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
@@ -233426,6 +233762,7 @@
 :do { /ip dns static add name=wugrorud.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=wuhhgk.glamira.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=wuhtfdsyrzg.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
+:do { /ip dns static add name=wujhwckxlnobe.space address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=wujjvmszvcyue.website address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=wujmohdqhgxio.online address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=wujrfwhsdtobv.space address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
@@ -250732,6 +251069,7 @@
 :do { /ip dns static add name=xdntimoypskgq.online address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=xdoddnsxavixr.space address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=xdohibgcnuqzm.space address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
+:do { /ip dns static add name=xdoorbkxyrlsc.website address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=xdooz.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=xdopmddpydxpl.site address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=xdopqmkcwwyqv.site address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
@@ -250749,6 +251087,7 @@
 :do { /ip dns static add name=xdsblm.ullapopken.de address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=xdsp.snadx.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=xdspoexdjeaab.site address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
+:do { /ip dns static add name=xdsyjbhvukdgo.site address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=xdtraffic.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=xdtube.co address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=xdtxgrdtfzw.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
@@ -250878,6 +251217,7 @@
 :do { /ip dns static add name=xevyld.harimpetfood.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=xex.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=xexkerkgrfyaf.site address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
+:do { /ip dns static add name=xeznjrljmzpnp.online address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=xf.x-funded.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=xf80vxk3rc.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=xfabqkelmfmrv.online address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
@@ -251447,6 +251787,7 @@
 :do { /ip dns static add name=xiaoshuoyun.cn address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=xiapuhdhbdsmd.online address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=xiaxslpsgdblw.site address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
+:do { /ip dns static add name=xiazyrkcer.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=xibspj.komehyo.jp address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=xibuvdzihpjlrq.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=xibvdjz2x2.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
@@ -251461,6 +251802,7 @@
 :do { /ip dns static add name=xiictvbnhmqnp.website address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=xiixzsaxlirtn.site address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=xiji.de address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
+:do { /ip dns static add name=xikjrcvqqatie.online address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=xikprjbbp.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=xikxomyzutsto.site address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=xilflksioan.net address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
@@ -253552,6 +253894,7 @@
 :do { /ip dns static add name=xogogo.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=xogogowebcams.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=xogpashkeftic.net address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
+:do { /ip dns static add name=xogqhldyfnpvy.website address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=xogwwjckgvwht.site address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=xohhed.macway.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=xoioaiiryhdti.space address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
@@ -256399,6 +256742,7 @@
 :do { /ip dns static add name=xycossiqmelxs.site address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=xycqtidq.greenunicornfarms.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=xycyblnwl.net address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
+:do { /ip dns static add name=xydqfmggvqdug.space address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=xydvxl.keikei.co address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=xyeaak.koreva-formation.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=xyefaumnllhxc.online address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
@@ -256448,6 +256792,7 @@
 :do { /ip dns static add name=xysvlioibyeae.website address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=xysvnhnqgsijv.online address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=xyuqvvrvdmelc.space address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
+:do { /ip dns static add name=xywwgwzzisbab.website address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=xyxgbs.lezhin.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=xyxiqtwkjqflt.site address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=xyxz.betterbathquote.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
@@ -256638,6 +256983,7 @@
 :do { /ip dns static add name=yagtyjaefiecu.online address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=yah3ph65tc.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=yahgansprugslisa.cfd address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
+:do { /ip dns static add name=yahoo-homepage.html-load.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=yahoo.personal.homepage.titsamateur.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=yahoolock.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=yahoosupdart.cyou address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
@@ -256866,9 +257212,11 @@
 :do { /ip dns static add name=ycqq-protect.pro address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=ycsixagtzyhs.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=ycstajztzoyiu.online address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
+:do { /ip dns static add name=yctafienhfpgz.online address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=yctdtntrybmtw.site address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=yctxsv.office-discount.at address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=ycudnnaaoxwuo.space address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
+:do { /ip dns static add name=ycuhegvfjtifp.site address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=ycuixpwkugaot.space address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=ycvhkfhflhirq.online address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=ycvlvgcuaxtem.website address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
@@ -256932,6 +257280,7 @@
 :do { /ip dns static add name=ydxgph.top address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=ydyqn.wolfermans.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=ydyywadl.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
+:do { /ip dns static add name=ydzfkzrmnqplv.site address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=ydzgtvxtyeqzr.site address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=ydzlen.mebloo.pl address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=ye.5xvvhxvjr5wrerq9mp969bcqw.cyou address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
@@ -256982,6 +257331,7 @@
 :do { /ip dns static add name=yellowprotection.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=yellowscissors.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=yelpinglethy.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
+:do { /ip dns static add name=yemingballock.cfd address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=yemmealngv.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=yemzuho.angelfire.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=yenawxeozlyob.site address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
@@ -257165,6 +257515,7 @@
 :do { /ip dns static add name=yg9jyvl.3y8phttozu2o6yink4y5f.cyou address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=ygacesefzgcvt.site address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=ygaeklqwfmtsl.website address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
+:do { /ip dns static add name=ygbjoob9by1g5gvz5.cfd address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=ygcbqnceieyqy.website address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=ygctwz.rawhidedogbones.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=ygdogx.hearstmagazines.co.uk address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
@@ -257337,6 +257688,7 @@
 :do { /ip dns static add name=yizj5fcwaj.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=yizjfsgpdtkpq.space address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=yizlda.crocs.co.uk address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
+:do { /ip dns static add name=yizlzgutocvwj.space address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=yjbytxezkaiht.website address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=yjcckvcaln.net address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=yjcontentdelivery.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
@@ -257525,6 +257877,7 @@
 :do { /ip dns static add name=ym7reenipl9xngnyp.cfd address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=ymature.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=ymazkrkieaujq.online address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
+:do { /ip dns static add name=ymbrbjxzfdljd.online address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=ymcflloytltvc.online address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=ymcoyw.lumica.kr address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=ymcrvf.myelisa.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
@@ -257607,6 +257960,7 @@
 :do { /ip dns static add name=yniabq.kemptener-jobanzeiger.de address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=ynjcztxozetqx.site address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=ynjryqkgtlixu.space address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
+:do { /ip dns static add name=ynjyoyxpzqazo.site address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=ynkunarlg.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=ynkynn.lapassione.cc address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=ynlelovgdgcxx.site address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
@@ -258434,6 +258788,7 @@
 :do { /ip dns static add name=yrkuhr.mysoft.hu address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=yrlkmglnttcve.online address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=yrlkte.in360.pl address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
+:do { /ip dns static add name=yrlovhdvzrdxs.site address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=yrnyvjyd.paradox24.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=yronesefurther.org address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=yrorsq.kirara-support.jp address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
@@ -258616,6 +258971,7 @@
 :do { /ip dns static add name=yumxxx.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=yumyum-babes.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=yun-hl.3g.qq.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
+:do { /ip dns static add name=yundfdbkftgts.site address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=yunduofei.xyz address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=yunit.org address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=yuno.blingalax.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
@@ -258692,6 +259048,7 @@
 :do { /ip dns static add name=yvsocbltkrpsl.online address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=yvsofs.tropeaka.com.au address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=yvspq.petsdrugmart.ca address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
+:do { /ip dns static add name=yvtcwrcvkwacm.website address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=yvtgva.casa.it address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=yvwbnpodnitie.site address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=yvwnnyhxlsniu.site address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
@@ -258724,6 +259081,7 @@
 :do { /ip dns static add name=ywjvjschozjzq.online address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=ywkjptehnjlwt.space address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=ywlaaovkoqkwf.site address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
+:do { /ip dns static add name=ywmejcbmwcyqa.website address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=ywnrqpd.xyz address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=ywojvu.kujten.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=ywrcqa.10tv.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
@@ -258812,6 +259170,7 @@
 :do { /ip dns static add name=ywzyhljazdsrx.space address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=yx-ads6.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=yx1.managershare.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
+:do { /ip dns static add name=yx8x4cjpbw5jjt.rest address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=yx95pbcglifh11xxqg65w8.rest address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=yxafxluf.legalhigh.co address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=yxanipxkjzdxx.space address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
@@ -258948,6 +259307,7 @@
 :do { /ip dns static add name=yzhkhzvaxytgk.online address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=yzhtcimcfoiza.site address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=yzhyq.ingoodtaste.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
+:do { /ip dns static add name=yziddoidzibrc.online address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=yzippousyxgvh.site address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=yzjcyznhjsizp.website address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=yzjncchwnfdni.online address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
@@ -259226,6 +259586,7 @@
 :do { /ip dns static add name=zavylwpyuijzb.website address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=zawad.sarnora.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=zawra9izy3.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
+:do { /ip dns static add name=zawveckoocywd.online address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=zaxffxesykzvfs.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=zaxortpispal.in address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=zaxxigefrdixn.online address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
@@ -259364,6 +259725,7 @@
 :do { /ip dns static add name=zcxfpncdrbdun.space address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=zcxwmnfhcsbzm.website address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=zcymvyglyjyxu.online address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
+:do { /ip dns static add name=zcyqxsvquhmwq.website address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=zczlh.wonderfoldwagon.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=zdbbqb.mancrates.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=zdbjccuxaectf.online address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
@@ -259377,6 +259739,7 @@
 :do { /ip dns static add name=zddsnuxow.icu address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=zdehguocldzea.site address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=zdekcjqkbktfh.website address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
+:do { /ip dns static add name=zdfwlokclkqhi.website address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=zdfwmkfxwrlht.online address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=zdg2g7v5xe.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=zdgcclgxonrhi.website address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
@@ -259604,6 +259967,7 @@
 :do { /ip dns static add name=zex.onporn.fun address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=zexmoa.qchicken.com.tw address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=zexporn.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
+:do { /ip dns static add name=zexudnxmjadlzg.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=zexvids.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=zexyivyvafozx.space address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=zeydoo.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
@@ -259790,6 +260154,7 @@
 :do { /ip dns static add name=zhnmv.weryze.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=zhntvykltwwcp.website address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=zhohro.swsg.co address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
+:do { /ip dns static add name=zhokpraictvcq.online address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=zhomsqvldksoy.site address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=zhongwangmy.cn address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=zhorihsvqdcll.space address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
@@ -259894,6 +260259,7 @@
 :do { /ip dns static add name=zingyporntube.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=zingyporntube.net address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=zinim.leftonfriday.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
+:do { /ip dns static add name=zinkifybywalk.cfd address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=zinoe.cn address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=zinovu.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=zinzlixtaacfg.website address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
@@ -259956,6 +260322,7 @@
 :do { /ip dns static add name=ziyu.net address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=zizjxqhbrqsna.online address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=zizki.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
+:do { /ip dns static add name=zizuhetwpahsv.site address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=zizzbedumbs.cyou address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=zizzivyweedhuddle.cyou address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=zj5mqsb06x.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
@@ -260226,6 +260593,7 @@
 :do { /ip dns static add name=zmvvg.tunedintokyo.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=zmvwfd.icu address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=zmwmxspippbip.online address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
+:do { /ip dns static add name=zmwrbpghsmkgx.online address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=zmxqp.drmartens.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=zmxuuwiovdzzj.online address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=zmyodzglqdaox.site address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
@@ -261048,6 +261416,7 @@
 :do { /ip dns static add name=zvnlfj.laredoute.pt address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=zvoift.autouncle.pt address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=zvouv.thehistorylist.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
+:do { /ip dns static add name=zvpcfivtixqsn.site address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=zvpmktldiqxdk.site address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=zvptrf.icu address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=zvqsd.mypatriotsupply.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
@@ -261101,6 +261470,7 @@
 :do { /ip dns static add name=zwgoeg.zakcret.gr address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=zwgsousozhihm.space address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=zwhuehapqxred.online address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
+:do { /ip dns static add name=zwhwovyxxigtn.online address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=zwhxmiesycxku.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=zwinqi.spartoo.pt address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=zwittersex.net address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
@@ -261183,6 +261553,7 @@
 :do { /ip dns static add name=zxuknfffkemse.space address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=zxveptyt.rastashop.co.za address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=zxvxukirgmomz.site address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
+:do { /ip dns static add name=zxwakgexybppm.site address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=zxwfcwm.icu address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=zxwnlg.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
 :do { /ip dns static add name=zxwows.tucanourbano.com address=0.0.0.0 type=A comment="managed-by=mohavise-mikrotik-adblock list=mohavise-adblock" } on-error={}
